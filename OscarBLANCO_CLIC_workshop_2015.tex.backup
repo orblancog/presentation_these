@@ -1,0 +1,262 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage{default}
+\usepackage{amsmath}
+\usepackage{color}
+% \usepackage[dvipsnames]{xcolor}
+% \usetheme{Dresden}
+\usepackage{graphicx}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{multicol}
+\usepackage{cancel}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+
+
+\definecolor{forestgreen}{rgb}{0.13,0.54,0.13}
+
+
+\begin{document}
+\title{\vspace*{2cm}\\Mitigation of the Oide effect}
+\author{Oscar BLANCO}
+\institute{LAL, CERN}
+\date{\today} 
+
+\definecolor{marron}{rgb}{0.64,0.16,0.16}
+
+\newcommand{\LALlogo}{
+  \setlength{\TPHorizModule}{1pt}
+  \setlength{\TPVertModule}{1pt}
+   % textblock{}{x,y}: pos(x) = leftUpperCorner + (x * \TPHorizModule), pos(y) = leftUpperCorner - (y * \TPVertModule)
+  \begin{textblock}{1}(5,218)
+   \includegraphics[height=1.6cm,keepaspectratio]{LAL.jpg}
+  \end{textblock}
+  }
+\newcommand{\CLIClogo}{
+  \setlength{\TPHorizModule}{1pt}
+  \setlength{\TPVertModule}{1pt}
+   % textblock{}{x,y}: pos(x) = leftUpperCorner + (x * \TPHorizModule), pos(y) = leftUpperCorner - (y * \TPVertModule)
+  \begin{textblock}{1}(20,35)
+   \includegraphics[height=1.6cm,keepaspectratio]{CLIC.jpg}\hspace*{0.8cm}
+   \includegraphics[height=0.8cm,keepaspectratio]{Workshop2014.jpg}
+  \end{textblock}
+  }
+% \newcommand{\LCWS}{
+%   \setlength{\TPHorizModule}{1pt}
+%   \setlength{\TPVertModule}{1pt}
+%    % textblock{}{x,y}: pos(x) = leftUpperCorner + (x * \TPHorizModule), pos(y) = leftUpperCorner - (y * \TPVertModule)
+%   \begin{textblock}{1}(5,35)
+%    \includegraphics[height=1.2cm,keepaspectratio]{LCWS12.jpg}
+%   \end{textblock}
+%   }
+% \newcommand{\CLICWorkshop}{
+%   \setlength{\TPHorizModule}{1pt}
+%   \setlength{\TPVertModule}{1pt}
+%    % textblock{}{x,y}: pos(x) = leftUpperCorner + (x * \TPHorizModule), pos(y) = leftUpperCorner - (y * \TPVertModule)
+%   \begin{textblock}{1}(110,215)
+%    \includegraphics[height=0.8cm,keepaspectratio]{Workshop2013.jpg}
+%   \end{textblock}
+%   }
+
+\newcommand{\CLICWorkshop}{
+  \setlength{\TPHorizModule}{1pt}
+  \setlength{\TPVertModule}{1pt}
+   % textblock{}{x,y}: pos(x) = leftUpperCorner + (x * \TPHorizModule), pos(y) = leftUpperCorner - (y * \TPVertModule)
+  \begin{textblock}{1}(-2,-2)
+   \includegraphics[height=2.9cm,keepaspectratio]{clic_logo__photov5.jpg}
+  \end{textblock}
+  }
+
+\logo{%
+    \includegraphics[width=1.4cm,height=1.4cm,keepaspectratio]{CERN.jpg}
+}
+\LALlogo
+%\CLIClogo
+\CLICWorkshop
+% \LCWS
+
+\frame{\titlepage} 
+
+\frame{\frametitle{Table of contents}\tableofcontents} 
+
+
+
+
+
+% \begin{frame}{Beamsize}
+% We are interested in the beamsize at the IP.
+% \begin{multicols}{2}
+% Horizontal plane
+%  \begin{align*}
+% \sigma^2 &= \sigma_0^2 + \sigma_g^2+\sigma_\delta^2 +{\color{red}\sigma_{rad}^2}\\
+% \sigma^2 &= \sigma_0^2 + \sigma_g^2+\sigma_\delta^2 +\overbrace{{\color{blue}	\sigma_{rad}^2}}
+% \end{align*}
+% Vertical plane
+%  \begin{align*}
+% \sigma^2 &= \sigma_0^2 + \sigma_g^2+\sigma_\delta^2 +{\color{red}\sigma_{rad}^2}\\
+% \sigma^2 &= \sigma_0^2 + \sigma_g^2+\sigma_\delta^2 +\overbrace{{\color{green}\sigma_{oide}^2}}
+% \end{align*} 
+% \end{multicols}
+% \begin{align*}
+%  \sigma_0 &\equiv \text{zero$^{\text{th}}$ order approx.}\\
+%  \sigma_g &\equiv \text{result from geometric aberrations}\\
+%  \sigma_\delta &\equiv \text{result from chromatic aberrations}\\
+%  {\color{red}\sigma_{rad}} &\equiv \text{interaction with magnets}
+% \end{align*}
+% \end{frame}
+\section{Oide effect}
+\begin{frame}{Oide effect}
+Radiation in a focusing magnet changes the energy of the particle and limits the focusing effect.\par
+\centering
+ \includegraphics[scale=0.4,angle=0]{Oide.pdf}\\
+{\tiny {\color{blue} Designed particle trajectory}, {\color{red} trajectory of a particle due to radiation in the quadrupole}}.\par
+\end{frame}
+\begin{frame}{Oide effect (cont.)}
+The beam size will be : 
+ \begin{equation*}
+  \sigma_y^2 = \beta_y^*\epsilon_y + c_1\gamma^5F(\sqrt{K}L,\sqrt{K}L^*)\left(\frac{\epsilon_y}{\beta_y^*}\right)^\frac{5}{2}
+ \end{equation*}
+and the minimum beamsize is independent of of energy.
+\begin{equation*}
+ \sigma^*_{y \text{ min}} = c_2\left[F(\sqrt{K}L,\sqrt{K}L^*)\right]^\frac{1}{7}(\epsilon_{Ny})^\frac{5}{7}
+\end{equation*}
+{\scriptsize
+\begin{table}[hbt]
+\centering
+\begin{tabular}{l||c|c|c||c|c|c|c||c}\hline\hline
+Lattice &$\epsilon_N$& $\gamma$& $\sigma_0$&$k$&$L$&$L^*$& $F$ & $\sigma_{oide}$\\
+ &(nm)&($10^3$)&(nm)&(m$^{-2}$)&(m)&(m)&&(nm)\\\hline
+CLIC 3 TeV & 20 & 2935.0 & 0.7 & 0.116 & 2.73 &3.5&  4.086  & 0.85\\
+CLIC 500 GeV & 25 & $\;\;$489.2 & 2.3 & 0.077 & 3.35 &4.3& 4.115 & 0.08\\
+ILC  500 GeV & 40 & $\;\;$489.2 & 5.7 & 0.170 & 2.20 &4.3& 9.567 & 0.04\\\hline
+\end{tabular}\label{tabSigmas}
+\end{table}\par
+Beam size and radiation beam size contribution for three lattices. $\epsilon_N$ is \par the normalized emittance.}
+\end{frame}
+\begin{frame}{Oide in CLIC 3TeV}
+ The current particle distribution in CLIC 3TeV at the IP.
+ \includegraphics[scale=0.2,angle=-90]{plotxrad.pdf}
+ \includegraphics[scale=0.2,angle=-90]{plotyrad.pdf}\\\centering
+ \includegraphics[scale=0.2,angle=-90]{plotxyrad.pdf}\par
+ The ideal would be to remove $\Delta y = y_\text{rad} -y_0$.\par
+\end{frame}
+\begin{frame}{$\Delta y$ due to radiation}
+Oide averages over $u,s,y,y'$, obtaining $\langle \Delta y \rangle = 0$.\par
+%This position variation is not coherent with any beam parameter, \textbf{but} its 
+But this result hides a correlation between $\Delta y, y'$:\par
+\begin{equation*}
+ \langle\Delta y (y'_0)\rangle = \frac{2}{3}r_e\gamma^3G(\sqrt{K}L,\sqrt{K}L^*)(y'_0)^3
+\end{equation*}
+$r_e$ is the clasical electron radius and
+{\scriptsize
+\begin{equation*}
+ G(\sqrt{K}L,\sqrt{K}L^*)=\int_0^{\sqrt{K}L}(\sin\phi+\sqrt{K}L^*\cos\phi)^2\int_0^\phi (\sin\phi'+\sqrt{K}L^*\cos\phi')^2 d\phi'd\phi
+\end{equation*}
+}\par\centering\vspace*{-0.5cm}
+\includegraphics[scale=0.3,angle=-90]{plotdyrad.pdf}\par
+\end{frame}
+\section{Corrector}
+\begin{frame}{Corrector}
+A pair of correctors is added to the strong focusing in order to mitigate the radiation effect.\par
+\centering
+\includegraphics[scale=0.3,angle=0]{Oide2.pdf}\par\raggedright
+{\color{blue}nominal trajectory}: the kick in C1 must cancel the kick in C0.\par
+{\color{red}all particles that radiate}: the difference in kicks should cancel $\Delta y$.\par\vspace*{1cm}
+Procedure:\par
+\begin{itemize}
+ \item Scan the best position and gradient ($s,k$) for C0.
+ \item Set C1 at QD0 input to cancel the effect of C0.
+\end{itemize}
+\end{frame}
+\begin{frame}{Corrector (cont.)}
+\centering
+\includegraphics[scale=0.3,angle=-90]{plotdyradfit.pdf}\par 
+Two sets of corrector could be used :
+\begin{itemize}
+ \item For the linear fit : Quadrupoles (QD00,QD01)
+ \item For the cubic fit : Octupoles (OD0,OD1)
+\end{itemize}
+\end{frame}
+\begin{frame}{Corrector (quad, oct)}
+\begin{columns}[T]
+\begin{column}{.48\textwidth}
+\centering
+   Quadrupoles\par\hspace*{-0.5cm}
+   \includegraphics[scale=0.25,angle=-90]{plotdyradquad.pdf}\par
+   Beam size reduction\par$3.0\%\pm0.7$
+\end{column}
+\hfill
+\begin{column}{0.48\textwidth}
+\centering
+   Octupoles\par\hspace*{-0.7cm}
+   \includegraphics[scale=0.25,angle=-90]{plotdyradoct.pdf}\par
+   Beam size reduction\par$4.3\%\pm0.7$
+\end{column}
+\end{columns}
+\end{frame}
+\begin{frame}{Oide+Oct in CLIC 3TeV}
+ The current particle distribution in CLIC 3TeV at the IP.
+ \includegraphics[scale=0.2,angle=-90]{plotxradoct.pdf}
+ \includegraphics[scale=0.2,angle=-90]{plotyradoct.pdf}\\\centering
+ \includegraphics[scale=0.2,angle=-90]{plotxyradoct.pdf}\par
+ Noticeable change in vertical phase space !\par
+\end{frame}
+\section{Limitation}
+\begin{frame}{Limitations}
+ Why it was not possible to reduce the correlation even more ?\par\centering
+ \includegraphics[scale=0.3,angle=0]{Oide2.pdf}\par\raggedright
+ \begin{itemize}
+  \item C0 adds very little to radiation. But at some point the radiation in C1 starts to be important. It might be possible to scan  C1 ($s,k$) to find a place where it radiates less.
+  \item Even with perfect C1 to C0 perfect correction. There will be a limit when radiation will affect the Horizontal plane. Here the target was set to less than 1\% of horizontal beam size increase.
+  \item Mean correlation could be reduced to a minimum as \par there is not correlation per each particle... (other target?)
+ \end{itemize}
+\end{frame}
+\section{Conclusions}
+\begin{frame}{Conclusions}
+\begin{itemize}
+\item Radiation in the final quad sets a limit on the vertical beamsize, this is called Oide effect
+\item 
+\end{itemize}
+\vspace*{2cm}
+\hspace*{3.6cm}I THANK YOU ALL!
+\end{frame}
+% \subsection{Optimization}
+
+\section*{References}
+\begin{frame}{References}
+ \begin{thebibliography}{6}
+\bibitem{Xu} Xu, G. General conditions for self-cancellation of geometric aberrations in a lattice structure. PRST-AB 8,104002, 2005.
+ \bibitem{Renier} Renier, Ives. Implementation and validation of the linear collider final focus prototype : ATF2 at KEK (Japan). Doctoral Thesis, LAL10-91. June 2010.
+ \end{thebibliography}
+\end{frame}
+% \begin{frame}{Additional slide}
+% Dispersion function
+% \begin{equation*}
+% \begin{pmatrix}
+%  \eta(s_2)\\
+%  \eta'(s_2)\\
+%  1
+% \end{pmatrix}
+% =
+% \begin{pmatrix}
+%  C(s_1,s_2) & S(s_1,s_2)& R_{16}(s_1,s_2)\\
+%  C'(s_1,s_2) & S'(s_1,s_2) & R_{26}(s_1,s_2)\\
+%  0 & 0 &1
+%  
+% \end{pmatrix}
+% \begin{pmatrix}
+%  \eta(s_1)\\
+%  \eta'(s_1)\\
+%  1
+% \end{pmatrix}
+% \end{equation*}
+% PLACET error bars
+% \begin{align*}
+%  f&= \frac{x_{rad}^2-x_{norad}^2}{x^2_0}\\
+%  \delta f &= \frac{2}{\sqrt{N}}\frac{(x^2_{rad}+x^2_{norad})}{x_0^2}
+% \end{align*}
+% \end{frame}
+% 
+
+\end{document}

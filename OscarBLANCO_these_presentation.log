@@ -1,0 +1,2689 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.7)  3 JUL 2015 13:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**OscarBLANCO_these_presentation.tex
+(./OscarBLANCO_these_presentation.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texmf/tex/latex/beamer/base/beamer.cls
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasercs.sty
+Package: beamerbasercs 2012/11/13 (rcs-revision cb16a617839f)
+)
+Document Class: beamer 2012/10/15 development version 3.24 A class for typesett
+ing presentations (rcs-revision 24853e6b98cf)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasemodes.sty
+Package: beamerbasemodes 2012/04/15 (rcs-revision cc6557182d97)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count79
+\c@beamerpauses=\count80
+
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasedecode.sty
+Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
+\beamer@slideinframe=\count81
+\beamer@minimum=\count82
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count83
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+\headheight=\dimen102
+\headdp=\dimen103
+\footheight=\dimen104
+\sidebarheight=\dimen105
+\beamer@tempdim=\dimen106
+\beamer@finalheight=\dimen107
+\beamer@animht=\dimen108
+\beamer@animdp=\dimen109
+\beamer@animwd=\dimen110
+\beamer@leftmargin=\dimen111
+\beamer@rightmargin=\dimen112
+\beamer@leftsidebar=\dimen113
+\beamer@rightsidebar=\dimen114
+\beamer@boxsize=\dimen115
+\beamer@vboxoffset=\dimen116
+\beamer@descdefault=\dimen117
+\beamer@descriptionwidth=\dimen118
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count84
+\beamer@subsubsectionmax=\count85
+\beamer@subsectionmax=\count86
+\beamer@sectionmax=\count87
+\beamer@totalheads=\count88
+\beamer@headcounter=\count89
+\beamer@partstartpage=\count90
+\beamer@sectionstartpage=\count91
+\beamer@subsectionstartpage=\count92
+\beamer@animationtempa=\count93
+\beamer@animationtempb=\count94
+\beamer@xpos=\count95
+\beamer@ypos=\count96
+\beamer@showpartnumber=\count97
+\beamer@currentsubsection=\count98
+\beamer@coveringdepth=\count99
+\beamer@sectionadjust=\count100
+\beamer@tocsectionnumber=\count101
+
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseoptions.sty
+Package: beamerbaseoptions 2010/04/27 (rcs-revision 982469101dd6)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen129
+\pgf@y=\dimen130
+\pgf@xa=\dimen131
+\pgf@ya=\dimen132
+\pgf@xb=\dimen133
+\pgf@yb=\dimen134
+\pgf@xc=\dimen135
+\pgf@yc=\dimen136
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count106
+\c@pgf@countb=\count107
+\c@pgf@countc=\count108
+\c@pgf@countd=\count109
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen137
+\pgfmath@count=\count112
+\pgfmath@box=\box35
+\pgfmath@toks=\toks20
+\pgfmath@stack@operand=\toks21
+\pgfmath@stack@operation=\toks22
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count113
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen138
+\pgf@picmaxx=\dimen139
+\pgf@picminy=\dimen140
+\pgf@picmaxy=\dimen141
+\pgf@pathminx=\dimen142
+\pgf@pathmaxx=\dimen143
+\pgf@pathminy=\dimen144
+\pgf@pathmaxy=\dimen145
+\pgf@xx=\dimen146
+\pgf@xy=\dimen147
+\pgf@yx=\dimen148
+\pgf@yy=\dimen149
+\pgf@zx=\dimen150
+\pgf@zy=\dimen151
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen152
+\pgf@path@lasty=\dimen153
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen154
+\pgf@shorten@start@additional=\dimen155
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count114
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen156
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen157
+\pgf@pt@y=\dimen158
+\pgf@pt@temp=\dimen159
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen160
+\pgf@sys@shading@range@num=\count115
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box39
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count116
+\XC@countmixins=\count117
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen161
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
+Package hyperref Info: Option `implicit' set `false' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count121
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen162
+\Fld@menulength=\count122
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count123
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count124
+\c@bookmark@seq@number=\count125
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaserequires.sty
+Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
+
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasecompatibility.sty
+Package: beamerbasecompatibility 2012/05/01  (rcs-revision 67c48b3b652d)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasefont.sty
+Package: beamerbasefont 2012/09/19  (rcs-revision 733629cd0c6c)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks23
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)))
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetranslator.sty
+Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
+
+(/usr/share/texmf/tex/latex/beamer/base/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/share/texmf/tex/latex/beamer/base/translator/translator-language-mappings
+.tex))) (/usr/share/texmf/tex/latex/beamer/base/beamerbasemisc.sty
+Package: beamerbasemisc 2012/02/24  (rcs-revision 2ff5461be705)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetwoscreens.sty
+Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseoverlay.sty
+Package: beamerbaseoverlay 2012/11/11  (rcs-revision 6afbc49b1109)
+\beamer@argscount=\count126
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count127
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetitle.sty
+Package: beamerbasetitle 2010/09/21  (rcs-revision f0446ed0b6ae)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasesection.sty
+Package: beamerbasesection 2012/11/11  (rcs-revision 0056eef6f17f)
+\c@lecture=\count128
+\c@part=\count129
+\c@section=\count130
+\c@subsection=\count131
+\c@subsubsection=\count132
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseframe.sty
+Package: beamerbaseframe 2012/09/13  (rcs-revision dcd846607320)
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count133
+\beamer@zoomframecount=\count134
+\beamer@frametextheight=\dimen165
+\c@subsectionslide=\count135
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks24
+\framewidth=\dimen166
+\c@framenumber=\count136
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseverbatim.sty
+Package: beamerbaseverbatim 2012/08/30  (rcs-revision dfdb135076b3)
+\beamer@verbatimfileout=\write4
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseframesize.sty
+Package: beamerbaseframesize 2011/09/12  (rcs-revision 70f9d8411e54)
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count137
+\beamer@autobreaklastheight=\dimen167
+\beamer@frametitletoks=\toks25
+\beamer@framesubtitletoks=\toks26
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseframecomponents.sty
+Package: beamerbaseframecomponents 2012/09/13  (rcs-revision dcd846607320)
+\beamer@footins=\box44
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasecolor.sty
+Package: beamerbasecolor 2010/06/06  (rcs-revision d1a9b48be06d)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasenotes.sty
+Package: beamerbasenotes 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@frameboxcopy=\box45
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetoc.sty
+Package: beamerbasetoc 2012/10/02  (rcs-revision 5ed0f4010e8a)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetemplates.sty
+Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@sbttoks=\toks27
+
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseauxtemplates.sty
+Package: beamerbaseauxtemplates 2012/05/01  (rcs-revision 67c48b3b652d)
+
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseboxes.sty
+Package: beamerbaseboxes 2012/05/13  (rcs-revision 56972908a390)
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen168
+\bmb@dima=\dimen169
+\bmb@dimb=\dimen170
+\bmb@prevheight=\dimen171
+)
+\beamer@blockheadheight=\dimen172
+))
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaselocalstructure.sty
+Package: beamerbaselocalstructure 2012/11/13  (rcs-revision ddfba79dac19)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks28
+)
+\c@figure=\count138
+\c@table=\count139
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasenavigation.sty
+Package: beamerbasenavigation 2012/04/03  (rcs-revision 42a0f21a412d)
+\beamer@section@min@dim=\dimen173
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetheorems.sty
+Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks29
+\ex@=\dimen174
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen175
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count140
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count141
+\leftroot@=\count142
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count143
+\DOTSCASE@=\count144
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen176
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count145
+\c@MaxMatrixCols=\count146
+\dotsspace@=\muskip11
+\c@parentequation=\count147
+\dspbrk@lvl=\count148
+\tag@help=\toks30
+\row@=\count149
+\column@=\count150
+\maxfields@=\count151
+\andhelp@=\toks31
+\eqnshift@=\dimen177
+\alignsep@=\dimen178
+\tagshift@=\dimen179
+\tagwidth@=\dimen180
+\totwidth@=\dimen181
+\lineht@=\dimen182
+\@envbody=\toks32
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks34
+\thm@bodyfont=\toks35
+\thm@headfont=\toks36
+\thm@notefont=\toks37
+\thm@headpunct=\toks38
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks39
+)
+\c@theorem=\count152
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasethemes.sty
+Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
+))
+(/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemedefault.sty
+Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/usr/share/texmf/tex/latex/beamer/base/themes/font/beamerfontthemedefault.sty
+Package: beamerfontthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemedefault.st
+y
+Package: beamercolorthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemedefault.st
+y
+Package: beamerinnerthemedefault 2012/05/01  (rcs-revision 67c48b3b652d)
+\beamer@dima=\dimen183
+\beamer@dimb=\dimen184
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemedefault.st
+y
+Package: beamerouterthemedefault 2012/10/02  (rcs-revision 5ed0f4010e8a)
+))) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks40
+\inpenc@posthook=\toks41
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/genmisc/default.sty 1.3 13/7/98
+    DEFAULT.STY version 1.3 July 1998 By Z Jiang
+    University of New England, Australia
+    Email: zhuhan@neumann.une.edu.au
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2014/02/06 version 2.70 text color boxes
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box56
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen188
+\pgf@nodesepend=\dimen189
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks54
+\verbatim@line=\toks55
+\verbatim@in@stream=\read5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2013/04/01 v0.3 A new environment syntax
+
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count158
+)
+\etb@tempcnta=\count159
+)
+\tcb@titlebox=\box57
+\tcb@upperbox=\box58
+\tcb@lowerbox=\box59
+\tcb@phantombox=\box60
+\c@tcbbreakpart=\count160
+\c@tcblayer=\count161
+\tcb@temp=\box61
+\tcb@temp=\box62
+\tcb@temp=\box63
+\tcb@temp=\box64
+\tcb@out=\write5
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemeDresden.sty
+Package: beamerthemeDresden 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthememiniframes
+.sty
+Package: beamerouterthememiniframes 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemewhale.sty
+Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)) (/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2014/01/03 v1.7j
+
+Package: textpos 2014/01/03 1.7j, absolute positioning of text on the page
+\TP@textbox=\box65
+\TP@holdbox=\box66
+\TPHorizModule=\dimen190
+\TPVertModule=\dimen191
+\TP@margin=\dimen192
+\TP@absmargin=\dimen193
+Grid set 16 x 16 = 22.7622pt x 17.07166pt
+\TPboxrulesize=\dimen194
+\TP@ox=\dimen195
+\TP@oy=\dimen196
+\TP@tbargs=\toks56
+\TP@prevdepth=\dimen197
+TextBlockOrigin set to 0pt x 0pt
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count162
+\mult@box=\box67
+\multicol@leftmargin=\dimen198
+\c@unbalance=\count163
+\c@collectmore=\count164
+\doublecol@number=\count165
+\multicoltolerance=\count166
+\multicolpretolerance=\count167
+\full@width=\dimen199
+\page@free=\dimen200
+\premulticols=\dimen201
+\postmulticols=\dimen202
+\multicolsep=\skip57
+\multicolbaselineskip=\skip58
+\partial@page=\box68
+\last@line=\box69
+\mult@rightbox=\box70
+\mult@grightbox=\box71
+\mult@gfirstbox=\box72
+\mult@firstbox=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@columnbadness=\count168
+\c@finalcolumnbadness=\count169
+\last@try=\dimen203
+\multicolovershoot=\dimen204
+\multicolundershoot=\dimen205
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\multicol@sort@counter=\count170
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen206
+\pgffor@skip=\dimen207
+\pgffor@stack=\toks57
+\pgffor@toks=\toks58
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count171
+\pgfplotmarksize=\dimen208
+)
+\tikz@lastx=\dimen209
+\tikz@lasty=\dimen210
+\tikz@lastxsaved=\dimen211
+\tikz@lastysaved=\dimen212
+\tikzleveldistance=\dimen213
+\tikzsiblingdistance=\dimen214
+\tikz@figbox=\box93
+\tikz@tempbox=\box94
+\tikztreelevel=\count172
+\tikznumberofchildren=\count173
+\tikznumberofcurrentchild=\count174
+\tikz@fig@count=\count175
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count176
+\pgfmatrixcurrentcolumn=\count177
+\pgf@matrix@numberofcolumns=\count178
+)
+\tikz@expandcount=\count179
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+)))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.
+code.tex
+File: tikzlibrarycalc.code.tex 2009/09/04 v2.10 (rcs-revision 1.6)
+) (./OscarBLANCO_these_presentation.aux)
+\openout1 = `OscarBLANCO_these_presentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(14.22636pt, 335.74263pt, 14.22636pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=335.74263pt
+* \textheight=244.6939pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count180
+\scratchdimen=\dimen215
+\scratchbox=\box95
+\nofMPsegments=\count181
+\nofMParguments=\count182
+\everyMPshowfont=\toks59
+\MPscratchCnt=\count183
+\MPscratchDim=\dimen216
+\MPnumerator=\count184
+\makeMPintoPDFobject=\count185
+\everyMPtoPDFconversion=\toks60
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box96
+Package hyperref Info: Link coloring OFF on input line 23.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count186
+)
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
+
+(./OscarBLANCO_these_presentation.out) (./OscarBLANCO_these_presentation.out)
+\@outlinefile=\write6
+\openout6 = `OscarBLANCO_these_presentation.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 23.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 23.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 23.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 23.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 23.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 23.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 23.
+
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-basic-dicti
+onary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-bibliograph
+y-dictionary/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-environment
+-dictionary/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-months-dict
+ionary/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-numbers-dic
+tionary/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-theorem-dic
+tionary/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \includegraphics on input line 23.
+
+(./OscarBLANCO_these_presentation.nav)
+Overfull \hbox (4.9927pt too wide) detected at line 23
+  [] [] [] [] [] []  
+ []
+
+
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 25.
+
+<LAL.jpg, id=38, 236.885pt x 157.58875pt>
+File: LAL.jpg Graphic file (type jpg)
+ <use LAL.jpg>
+Package pdftex.def Info: LAL.jpg used on input line 91.
+(pdftex.def)             Requested size: 68.43102pt x 45.52458pt.
+
+Overfull \hbox (67.43102pt too wide) in paragraph at lines 91--91
+[][]  
+ []
+
+<CERN.jpg, id=39, 225.84375pt x 225.84375pt>
+File: CERN.jpg Graphic file (type jpg)
+ <use CERN.jpg>
+Package pdftex.def Info: CERN.jpg used on input line 95.
+(pdftex.def)             Requested size: 39.83339pt x 39.83339pt.
+
+Overfull \hbox (38.83339pt too wide) in paragraph at lines 95--95
+[][]  
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 97.
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+ <./LAL.jpg> <./CERN.jpg>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 108.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 108.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[2
+
+]
+<Standard_Model_of_Elementary_Particles.jpg, id=113, 2007.5pt x 1507.6325pt>
+File: Standard_Model_of_Elementary_Particles.jpg Graphic file (type jpg)
+
+<use Standard_Model_of_Elementary_Particles.jpg>
+Package pdftex.def Info: Standard_Model_of_Elementary_Particles.jpg used on inp
+ut line 136.
+(pdftex.def)             Requested size: 80.28632pt x 60.29503pt.
+
+<energyforce.pdf, id=114, 442.65375pt x 228.855pt>
+File: energyforce.pdf Graphic file (type pdf)
+ <use energyforce.pdf>
+Package pdftex.def Info: energyforce.pdf used on input line 136.
+(pdftex.def)             Requested size: 115.08725pt x 59.50089pt.
+
+<top.JPG, id=115, 877.02657pt x 649.67719pt>
+File: top.JPG Graphic file (type jpg)
+ <use top.JPG>
+Package pdftex.def Info: top.JPG used on input line 136.
+(pdftex.def)             Requested size: 87.7078pt x 64.97151pt.
+
+Overfull \hbox (7.75772pt too wide) in paragraph at lines 136--136
+[]|  [] 
+ []
+
+<3_11_1_3.jpg, id=116, 200.24812pt x 107.65219pt>
+File: 3_11_1_3.jpg Graphic file (type jpg)
+ <use 3_11_1_3.jpg>
+Package pdftex.def Info: 3_11_1_3.jpg used on input line 136.
+(pdftex.def)             Requested size: 120.1498pt x 64.5918pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[3
+
+ <./Standard_Model_of_Elementary_Particles.jpg> <./energyforce.pdf> <./top.JPG>
+ <./3_11_1_3.jpg>] <circular.jpg, id=177, 229.85875pt x 149.55875pt>
+File: circular.jpg Graphic file (type jpg)
+
+<use circular.jpg>
+Package pdftex.def Info: circular.jpg used on input line 173.
+(pdftex.def)             Requested size: 68.95815pt x 44.86797pt.
+ <linear2.jpg, id=178, 433.62pt x 64.24pt>
+File: linear2.jpg Graphic file (type jpg)
+ <use linear2.jpg>
+Package pdftex.def Info: linear2.jpg used on input line 173.
+(pdftex.def)             Requested size: 130.087pt x 19.27214pt.
+
+<linear.jpg, id=179, 269.005pt x 188.705pt>
+File: linear.jpg Graphic file (type jpg)
+ <use linear.jpg>
+Package pdftex.def Info: linear.jpg used on input line 173.
+(pdftex.def)             Requested size: 80.70212pt x 56.61192pt.
+
+<paquet2.jpg, id=180, 109.40875pt x 56.21pt>
+File: paquet2.jpg Graphic file (type jpg)
+ <use paquet2.jpg>
+Package pdftex.def Info: paquet2.jpg used on input line 173.
+(pdftex.def)             Requested size: 65.64574pt x 33.72624pt.
+
+<paquet1.jpg, id=181, 93.34875pt x 62.2325pt>
+File: paquet1.jpg Graphic file (type jpg)
+ <use paquet1.jpg>
+Package pdftex.def Info: paquet1.jpg used on input line 173.
+(pdftex.def)             Requested size: 56.00967pt x 37.33978pt.
+
+Overfull \hbox (19.29204pt too wide) in paragraph at lines 173--173
+|  []  
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[4
+
+ <./circular.jpg> <./linear2.jpg> <./linear.jpg> <./paquet2.jpg> <./paquet1.jpg
+>]
+File: paquet2.jpg Graphic file (type jpg)
+ <use paquet2.jpg>
+Package pdftex.def Info: paquet2.jpg used on input line 195.
+(pdftex.def)             Requested size: 65.64574pt x 33.72624pt.
+File: paquet1.jpg Graphic file (type jpg)
+ <use paquet1.jpg>
+Package pdftex.def Info: paquet1.jpg used on input line 195.
+(pdftex.def)             Requested size: 56.00967pt x 37.33978pt.
+
+<telescope.jpg, id=219, 512.66531pt x 217.5628pt>
+File: telescope.jpg Graphic file (type jpg)
+ <use telescope.jpg>
+Package pdftex.def Info: telescope.jpg used on input line 195.
+(pdftex.def)             Requested size: 123.04218pt x 52.21613pt.
+
+<220px-Syncrotron.jpg, id=220, 209.20264pt x 120.76697pt>
+File: 220px-Syncrotron.jpg Graphic file (type jpg)
+
+<use 220px-Syncrotron.jpg>
+Package pdftex.def Info: 220px-Syncrotron.jpg used on input line 195.
+(pdftex.def)             Requested size: 83.67957pt x 48.30592pt.
+
+<bunch-self-modulated-5-arrow.jpg, id=221, 594.22pt x 375.4025pt>
+File: bunch-self-modulated-5-arrow.jpg Graphic file (type jpg)
+
+<use bunch-self-modulated-5-arrow.jpg>
+Package pdftex.def Info: bunch-self-modulated-5-arrow.jpg used on input line 19
+5.
+(pdftex.def)             Requested size: 106.95499pt x 67.56953pt.
+
+<4_1_2_4.jpg, id=222, 301.8778pt x 236.38312pt>
+File: 4_1_2_4.jpg Graphic file (type jpg)
+ <use 4_1_2_4.jpg>
+Package pdftex.def Info: 4_1_2_4.jpg used on input line 195.
+(pdftex.def)             Requested size: 90.56403pt x 70.91548pt.
+
+<I15-71-wakefield02b.jpg, id=223, 69.25874pt x 110.4125pt>
+File: I15-71-wakefield02b.jpg Graphic file (type jpg)
+
+<use I15-71-wakefield02b.jpg>
+Package pdftex.def Info: I15-71-wakefield02b.jpg used on input line 195.
+(pdftex.def)             Requested size: 41.55556pt x 66.248pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[5
+
+ <./telescope.jpg> <./220px-Syncrotron.jpg> <./bunch-self-modulated-5-arrow.jpg
+> <./4_1_2_4.jpg> <./I15-71-wakefield02b.jpg>]
+File: paquet2.jpg Graphic file (type jpg)
+ <use paquet2.jpg>
+Package pdftex.def Info: paquet2.jpg used on input line 227.
+(pdftex.def)             Requested size: 65.64574pt x 33.72624pt.
+File: paquet1.jpg Graphic file (type jpg)
+
+<use paquet1.jpg>
+Package pdftex.def Info: paquet1.jpg used on input line 227.
+(pdftex.def)             Requested size: 56.00967pt x 37.33978pt.
+File: telescope.jpg Graphic file (type jpg)
+ <use telescope.jpg>
+Package pdftex.def Info: telescope.jpg used on input line 227.
+(pdftex.def)             Requested size: 123.04218pt x 52.21613pt.
+File: 220px-Syncrotron.jpg Graphic file (type jpg)
+ <use 220px-Syncrotron.jpg>
+Package pdftex.def Info: 220px-Syncrotron.jpg used on input line 227.
+(pdftex.def)             Requested size: 83.67957pt x 48.30592pt.
+File: bunch-self-modulated-5-arrow.jpg Graphic file (type jpg)
+
+<use bunch-self-modulated-5-arrow.jpg>
+Package pdftex.def Info: bunch-self-modulated-5-arrow.jpg used on input line 22
+7.
+(pdftex.def)             Requested size: 106.95499pt x 67.56953pt.
+File: 4_1_2_4.jpg Graphic file (type jpg)
+ <use 4_1_2_4.jpg>
+Package pdftex.def Info: 4_1_2_4.jpg used on input line 227.
+(pdftex.def)             Requested size: 90.56403pt x 70.91548pt.
+File: I15-71-wakefield02b.jpg Graphic file (type jpg)
+
+<use I15-71-wakefield02b.jpg>
+Package pdftex.def Info: I15-71-wakefield02b.jpg used on input line 227.
+(pdftex.def)             Requested size: 41.55556pt x 66.248pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[6
+
+]
+File: paquet2.jpg Graphic file (type jpg)
+ <use paquet2.jpg>
+Package pdftex.def Info: paquet2.jpg used on input line 268.
+(pdftex.def)             Requested size: 65.64574pt x 33.72624pt.
+File: paquet1.jpg Graphic file (type jpg)
+ <use paquet1.jpg>
+Package pdftex.def Info: paquet1.jpg used on input line 268.
+(pdftex.def)             Requested size: 56.00967pt x 37.33978pt.
+File: telescope.jpg Graphic file (type jpg)
+ <use telescope.jpg>
+Package pdftex.def Info: telescope.jpg used on input line 268.
+(pdftex.def)             Requested size: 123.04218pt x 52.21613pt.
+File: 220px-Syncrotron.jpg Graphic file (type jpg)
+
+<use 220px-Syncrotron.jpg>
+Package pdftex.def Info: 220px-Syncrotron.jpg used on input line 268.
+(pdftex.def)             Requested size: 83.67957pt x 48.30592pt.
+File: bunch-self-modulated-5-arrow.jpg Graphic file (type jpg)
+ <use bunch-self-modulated-5-arrow.jpg>
+Package pdftex.def Info: bunch-self-modulated-5-arrow.jpg used on input line 26
+8.
+(pdftex.def)             Requested size: 106.95499pt x 67.56953pt.
+File: 4_1_2_4.jpg Graphic file (type jpg)
+
+<use 4_1_2_4.jpg>
+Package pdftex.def Info: 4_1_2_4.jpg used on input line 268.
+(pdftex.def)             Requested size: 90.56403pt x 70.91548pt.
+File: I15-71-wakefield02b.jpg Graphic file (type jpg)
+ <use I15-71-wakefield02b.jpg>
+Package pdftex.def Info: I15-71-wakefield02b.jpg used on input line 268.
+(pdftex.def)             Requested size: 41.55556pt x 66.248pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[7
+
+] <Figures_CLIC-layout2012-2pub.jpg, id=318, 520.94624pt x 284.06125pt>
+File: Figures_CLIC-layout2012-2pub.jpg Graphic file (type jpg)
+
+<use Figures_CLIC-layout2012-2pub.jpg>
+Package pdftex.def Info: Figures_CLIC-layout2012-2pub.jpg used on input line 29
+1.
+(pdftex.def)             Requested size: 312.57016pt x 170.43805pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[8
+
+ <./Figures_CLIC-layout2012-2pub.jpg>]
+<quadrupolem.jpg, id=350, 266.9975pt x 113.42375pt>
+File: quadrupolem.jpg Graphic file (type jpg)
+ <use quadrupolem.jpg>
+Package pdftex.def Info: quadrupolem.jpg used on input line 403.
+(pdftex.def)             Requested size: 106.79709pt x 45.36868pt.
+
+<20060330di-043.jpg, id=351, 180.675pt x 120.45pt>
+File: 20060330di-043.jpg Graphic file (type jpg)
+ <use 20060330di-043.jpg>
+Package pdftex.def Info: 20060330di-043.jpg used on input line 403.
+(pdftex.def)             Requested size: 72.2687pt x 48.17914pt.
+
+<chromaticity.pdf, id=352, 358.33875pt x 225.84375pt>
+File: chromaticity.pdf Graphic file (type pdf)
+ <use chromaticity.pdf>
+Package pdftex.def Info: chromaticity.pdf used on input line 403.
+(pdftex.def)             Requested size: 100.33417pt x 63.23581pt.
+
+<fig01.pdf, id=353, 481.8pt x 222.8325pt>
+File: fig01.pdf Graphic file (type pdf)
+ <use fig01.pdf>
+Package pdftex.def Info: fig01.pdf used on input line 403.
+(pdftex.def)             Requested size: 481.79881pt x 222.83195pt.
+
+<chromHV_500GeVa.pdf, id=354, 505.89pt x 722.7pt>
+File: chromHV_500GeVa.pdf Graphic file (type pdf)
+ <use chromHV_500GeVa.pdf>
+Package pdftex.def Info: chromHV_500GeVa.pdf used on input line 403.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+
+<dipole.jpg, id=355, 172.645pt x 95.35625pt>
+File: dipole.jpg Graphic file (type jpg)
+ <use dipole.jpg>
+Package pdftex.def Info: dipole.jpg used on input line 403.
+(pdftex.def)             Requested size: 172.64456pt x 95.356pt.
+
+<geo_cancel.pdf, id=356, 549.05125pt x 247.92625pt>
+File: geo_cancel.pdf Graphic file (type pdf)
+ <use geo_cancel.pdf>
+Package pdftex.def Info: geo_cancel.pdf used on input line 403.
+(pdftex.def)             Requested size: 549.04991pt x 247.92564pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[9
+
+ <./quadrupolem.jpg> <./20060330di-043.jpg> <./chromaticity.pdf> <./fig01.pdf> 
+<./chromHV_500GeVa.pdf> <./dipole.jpg> <./geo_cancel.pdf>]
+<nonlocalcorr2.pdf, id=437, 1632.0975pt x 465.74pt>
+File: nonlocalcorr2.pdf Graphic file (type pdf)
+ <use nonlocalcorr2.pdf>
+Package pdftex.def Info: nonlocalcorr2.pdf used on input line 421.
+(pdftex.def)             Requested size: 163.21931pt x 46.57672pt.
+
+<localcorr2.pdf, id=438, 1031.855pt x 541.02126pt>
+File: localcorr2.pdf Graphic file (type pdf)
+ <use localcorr2.pdf>
+Package pdftex.def Info: localcorr2.pdf used on input line 421.
+(pdftex.def)             Requested size: 103.19154pt x 54.10529pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./CLIC3TeV_FFS_nonlocal-crop-crop.pdf):
+ PDF inclusion: found PDF version <1.5>, but at most version <1.4> allowed
+<CLIC3TeV_FFS_nonlocal-crop-crop.pdf, id=439, 324.21124pt x 204.765pt>
+File: CLIC3TeV_FFS_nonlocal-crop-crop.pdf Graphic file (type pdf)
+
+<use CLIC3TeV_FFS_nonlocal-crop-crop.pdf>
+Package pdftex.def Info: CLIC3TeV_FFS_nonlocal-crop-crop.pdf used on input line
+ 421.
+(pdftex.def)             Requested size: 129.68219pt x 81.90454pt.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./CLIC3TeV_FFS_local-crop-crop.pdf): PD
+F inclusion: found PDF version <1.5>, but at most version <1.4> allowed
+<CLIC3TeV_FFS_local-crop-crop.pdf, id=440, 324.21124pt x 203.76125pt>
+File: CLIC3TeV_FFS_local-crop-crop.pdf Graphic file (type pdf)
+
+<use CLIC3TeV_FFS_local-crop-crop.pdf>
+Package pdftex.def Info: CLIC3TeV_FFS_local-crop-crop.pdf used on input line 42
+1.
+(pdftex.def)             Requested size: 129.68219pt x 81.50305pt.
+
+<noninterleavedcorr2.pdf, id=441, 1332.98pt x 503.8825pt>
+File: noninterleavedcorr2.pdf Graphic file (type pdf)
+
+<use noninterleavedcorr2.pdf>
+Package pdftex.def Info: noninterleavedcorr2.pdf used on input line 421.
+(pdftex.def)             Requested size: 106.64058pt x 40.31142pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[10
+
+ <./nonlocalcorr2.pdf> <./localcorr2.pdf> <./CLIC3TeV_FFS_nonlocal-crop-crop.pd
+f> <./CLIC3TeV_FFS_local-crop-crop.pdf> <./noninterleavedcorr2.pdf>]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[11
+
+]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[12
+
+]
+File: 220px-Syncrotron.jpg Graphic file (type jpg)
+ <use 220px-Syncrotron.jpg>
+Package pdftex.def Info: 220px-Syncrotron.jpg used on input line 456.
+(pdftex.def)             Requested size: 104.60106pt x 60.38333pt.
+
+<geometrysr_3a.jpg, id=808, 321.2pt x 337.26pt>
+File: geometrysr_3a.jpg Graphic file (type jpg)
+ <use geometrysr_3a.jpg>
+Package pdftex.def Info: geometrysr_3a.jpg used on input line 456.
+(pdftex.def)             Requested size: 96.36073pt x 101.17877pt.
+
+<Bend.jpg, id=809, 524.96124pt x 580.1675pt>
+File: Bend.jpg Graphic file (type jpg)
+ <use Bend.jpg>
+Package pdftex.def Info: Bend.jpg used on input line 456.
+(pdftex.def)             Requested size: 73.49406pt x 81.22289pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[13
+
+ <./geometrysr_3a.jpg> <./Bend.jpg>]
+File: geometrysr_3a.jpg Graphic file (type jpg)
+ <use geometrysr_3a.jpg>
+Package pdftex.def Info: geometrysr_3a.jpg used on input line 526.
+(pdftex.def)             Requested size: 80.2998pt x 84.31479pt.
+
+<quadrupole-scan.jpg, id=843, 361.35pt x 287.8755pt>
+File: quadrupole-scan.jpg Graphic file (type jpg)
+ <use quadrupole-scan.jpg>
+Package pdftex.def Info: quadrupole-scan.jpg used on input line 526.
+(pdftex.def)             Requested size: 90.33728pt x 71.96869pt.
+File: 4_1_2_4.jpg Graphic file (type jpg)
+
+<use 4_1_2_4.jpg>
+Package pdftex.def Info: 4_1_2_4.jpg used on input line 526.
+(pdftex.def)             Requested size: 90.56403pt x 70.91548pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[14
+
+ <./quadrupole-scan.jpg>] <sigma_Ldrift.pdf, id=876, 505.89pt x 722.7pt>
+File: sigma_Ldrift.pdf Graphic file (type pdf)
+
+<use sigma_Ldrift.pdf>
+Package pdftex.def Info: sigma_Ldrift.pdf used on input line 609.
+(pdftex.def)             Requested size: 121.41608pt x 173.45154pt.
+ <sigma_Ldrift_r6.pdf, id=877, 505.89pt x 722.7pt>
+File: sigma_Ldrift_r6.pdf Graphic file (type pdf)
+
+<use sigma_Ldrift_r6.pdf>
+Package pdftex.def Info: sigma_Ldrift_r6.pdf used on input line 609.
+(pdftex.def)             Requested size: 121.41608pt x 173.45154pt.
+
+Overfull \hbox (11.16045pt too wide) in paragraph at lines 609--609
+[][]  
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[15
+
+ <./sigma_Ldrift.pdf> <./sigma_Ldrift_r6.pdf>]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[16
+
+] <Oide.pdf, id=958, 480.79625pt x 235.88126pt>
+File: Oide.pdf Graphic file (type pdf)
+ <use Oide.pdf>
+Package pdftex.def Info: Oide.pdf used on input line 774.
+(pdftex.def)             Requested size: 192.31508pt x 94.35083pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[17
+
+ <./Oide.pdf>]
+Overfull \hbox (19.1007pt too wide) in paragraph at lines 795--795
+ |  [][][][] 
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[18
+
+] <plotxrad.pdf, id=1027, 505.89pt x 722.7pt>
+File: plotxrad.pdf Graphic file (type pdf)
+ <use plotxrad.pdf>
+Package pdftex.def Info: plotxrad.pdf used on input line 802.
+(pdftex.def)             Requested size: 101.1762pt x 144.53743pt.
+
+<plotyrad.pdf, id=1028, 505.89pt x 722.7pt>
+File: plotyrad.pdf Graphic file (type pdf)
+ <use plotyrad.pdf>
+Package pdftex.def Info: plotyrad.pdf used on input line 802.
+(pdftex.def)             Requested size: 101.1762pt x 144.53743pt.
+
+<plotxyrad.pdf, id=1029, 505.89pt x 722.7pt>
+File: plotxyrad.pdf Graphic file (type pdf)
+ <use plotxyrad.pdf>
+Package pdftex.def Info: plotxyrad.pdf used on input line 802.
+(pdftex.def)             Requested size: 101.1762pt x 144.53743pt.
+
+Overfull \vbox (14.70192pt too high) detected at line 802
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[19
+
+ <./plotxrad.pdf> <./plotyrad.pdf> <./plotxyrad.pdf>]
+<plotdyrad.pdf, id=1091, 505.89pt x 722.7pt>
+File: plotdyrad.pdf Graphic file (type pdf)
+ <use plotdyrad.pdf>
+Package pdftex.def Info: plotdyrad.pdf used on input line 819.
+(pdftex.def)             Requested size: 126.47218pt x 180.67455pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[20
+
+ <./plotdyrad.pdf>] <Oide2.pdf, id=1134, 480.79625pt x 241.90375pt>
+File: Oide2.pdf Graphic file (type pdf)
+
+<use Oide2.pdf>
+Package pdftex.def Info: Oide2.pdf used on input line 832.
+(pdftex.def)             Requested size: 144.23997pt x 72.57167pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[21
+
+ <./Oide2.pdf>] <lattice_CLIC_3TeVFD.pdf, id=1171, 505.89pt x 722.7pt>
+File: lattice_CLIC_3TeVFD.pdf Graphic file (type pdf)
+
+<use lattice_CLIC_3TeVFD.pdf>
+Package pdftex.def Info: lattice_CLIC_3TeVFD.pdf used on input line 896.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[22
+
+ <./lattice_CLIC_3TeVFD.pdf>]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[23
+
+]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[24
+
+] <LigneATF2.jpg, id=1274, 702.4644pt x 189.3474pt>
+File: LigneATF2.jpg Graphic file (type jpg)
+ <use LigneATF2.jpg>
+Package pdftex.def Info: LigneATF2.jpg used on input line 1060.
+(pdftex.def)             Requested size: 351.23134pt x 94.67346pt.
+
+<15_ATF2.jpg, id=1275, 216.81pt x 144.54pt>
+File: 15_ATF2.jpg Graphic file (type jpg)
+ <use 15_ATF2.jpg>
+Package pdftex.def Info: 15_ATF2.jpg used on input line 1060.
+(pdftex.def)             Requested size: 108.40472pt x 72.2698pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[25
+
+ <./LigneATF2.jpg> <./15_ATF2.jpg>]
+<TMmodesrect.jpg, id=1308, 804.00375pt x 205.76875pt>
+File: TMmodesrect.jpg Graphic file (type jpg)
+ <use TMmodesrect.jpg>
+Package pdftex.def Info: TMmodesrect.jpg used on input line 1088.
+(pdftex.def)             Requested size: 804.0018pt x 205.76823pt.
+
+<TMmodescirc.jpg, id=1309, 815.045pt x 213.79875pt>
+File: TMmodescirc.jpg Graphic file (type jpg)
+ <use TMmodescirc.jpg>
+Package pdftex.def Info: TMmodescirc.jpg used on input line 1088.
+(pdftex.def)             Requested size: 815.043pt x 213.79822pt.
+
+<Resonantfrec.jpg, id=1310, 770.88pt x 403.5075pt>
+File: Resonantfrec.jpg Graphic file (type jpg)
+ <use Resonantfrec.jpg>
+Package pdftex.def Info: Resonantfrec.jpg used on input line 1088.
+(pdftex.def)             Requested size: 770.87813pt x 403.50652pt.
+
+<cavitiestube.jpg, id=1311, 211.79124pt x 177.66376pt>
+File: cavitiestube.jpg Graphic file (type jpg)
+ <use cavitiestube.jpg>
+Package pdftex.def Info: cavitiestube.jpg used on input line 1088.
+(pdftex.def)             Requested size: 211.79073pt x 177.66331pt.
+
+<Posang.jpg, id=1312, 766.865pt x 407.5225pt>
+File: Posang.jpg Graphic file (type jpg)
+ <use Posang.jpg>
+Package pdftex.def Info: Posang.jpg used on input line 1088.
+(pdftex.def)             Requested size: 766.86314pt x 407.5215pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[26
+
+ <./TMmodesrect.jpg> <./TMmodescirc.jpg> <./Resonantfrec.jpg> <./cavitiestube.j
+pg> <./Posang.jpg>]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[27
+
+] <Electr-crop.pdf, id=1375, 342.27875pt x 659.46375pt>
+File: Electr-crop.pdf Graphic file (type pdf)
+
+<use Electr-crop.pdf>
+Package pdftex.def Info: Electr-crop.pdf used on input line 1109.
+(pdftex.def)             Requested size: 342.2779pt x 659.46213pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[28
+
+ <./Electr-crop.pdf>] <optics_BX.pdf, id=1427, 505.89pt x 722.7pt>
+File: optics_BX.pdf Graphic file (type pdf)
+
+<use optics_BX.pdf>
+Package pdftex.def Info: optics_BX.pdf used on input line 1129.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+ <optics_requ.pdf, id=1428, 505.89pt x 722.7pt>
+File: optics_requ.pdf Graphic file (type pdf)
+
+<use optics_requ.pdf>
+Package pdftex.def Info: optics_requ.pdf used on input line 1129.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+ <3BPMs.jpg, id=1429, 1298.8525pt x 1004.75375pt>
+File: 3BPMs.jpg Graphic file (type jpg)
+
+<use 3BPMs.jpg>
+Package pdftex.def Info: 3BPMs.jpg used on input line 1129.
+(pdftex.def)             Requested size: 1298.84933pt x 1004.75131pt.
+ <chambrevide2.jpg, id=1430, 1392.20125pt x 1092.08pt>
+File: chambrevide2.jpg Graphic file (type jpg)
+
+<use chambrevide2.jpg>
+Package pdftex.def Info: chambrevide2.jpg used on input line 1129.
+(pdftex.def)             Requested size: 1392.19786pt x 1092.07735pt.
+ <feedback.jpg, id=1431, 900.36375pt x 337.26pt>
+File: feedback.jpg Graphic file (type jpg)
+
+<use feedback.jpg>
+Package pdftex.def Info: feedback.jpg used on input line 1129.
+(pdftex.def)             Requested size: 900.36156pt x 337.25917pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[29
+
+ <./optics_BX.pdf> <./optics_requ.pdf> <./3BPMs.jpg> <./chambrevide2.jpg> <./fe
+edback.jpg>] <DSC00239.JPG, id=1481, 4930.42pt x 3276.24pt>
+File: DSC00239.JPG Graphic file (type jpg)
+
+<use DSC00239.JPG>
+Package pdftex.def Info: DSC00239.JPG used on input line 1145.
+(pdftex.def)             Requested size: 123.2301pt x 81.8858pt.
+File: DSC00239.JPG Graphic file (type jpg)
+ <use DSC00239.JPG>
+Package pdftex.def Info: DSC00239.JPG used on input line 1145.
+(pdftex.def)             Requested size: 123.2301pt x 81.8858pt.
+
+<DSC00470.JPG, id=1482, 4930.42pt x 3276.24pt>
+File: DSC00470.JPG Graphic file (type jpg)
+ <use DSC00470.JPG>
+Package pdftex.def Info: DSC00470.JPG used on input line 1145.
+(pdftex.def)             Requested size: 147.90622pt x 98.28296pt.
+File: DSC00470.JPG Graphic file (type jpg)
+
+<use DSC00470.JPG>
+Package pdftex.def Info: DSC00470.JPG used on input line 1145.
+(pdftex.def)             Requested size: 147.90622pt x 98.28296pt.
+ <DSC_2662.JPG, id=1483, 7387.6pt x 4930.42pt>
+File: DSC_2662.JPG Graphic file (type jpg)
+
+<use DSC_2662.JPG>
+Package pdftex.def Info: DSC_2662.JPG used on input line 1145.
+(pdftex.def)             Requested size: 133.01614pt x 88.77382pt.
+ <DSC00186.JPG, id=1484, 4930.42pt x 3276.24pt>
+File: DSC00186.JPG Graphic file (type jpg)
+
+<use DSC00186.JPG>
+Package pdftex.def Info: DSC00186.JPG used on input line 1145.
+(pdftex.def)             Requested size: 123.2301pt x 81.8858pt.
+ <DSC00400.JPG, id=1485, 4930.42pt x 3276.24pt>
+File: DSC00400.JPG Graphic file (type jpg)
+
+<use DSC00400.JPG>
+Package pdftex.def Info: DSC00400.JPG used on input line 1145.
+(pdftex.def)             Requested size: 147.90622pt x 98.28296pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[30
+
+ <./DSC00239.JPG> <./DSC00470.JPG> <./DSC_2662.JPG> <./DSC00186.JPG> <./DSC0040
+0.JPG>] <BPMcal.pdf, id=1517, 576.1525pt x 576.1525pt>
+File: BPMcal.pdf Graphic file (type pdf)
+ <use BPMcal.pdf>
+Package pdftex.def Info: BPMcal.pdf used on input line 1159.
+(pdftex.def)             Requested size: 69.13531pt x 69.13531pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[31
+
+ <./BPMcal.pdf>] <SIS3316.jpg, id=1559, 1114.1625pt x 2502.34875pt>
+File: SIS3316.jpg Graphic file (type jpg)
+
+<use SIS3316.jpg>
+Package pdftex.def Info: SIS3316.jpg used on input line 1179.
+(pdftex.def)             Requested size: 1114.15979pt x 2502.34268pt.
+ <Waveform.jpg, id=1560, 1448.41125pt x 766.865pt>
+File: Waveform.jpg Graphic file (type jpg)
+
+<use Waveform.jpg>
+Package pdftex.def Info: Waveform.jpg used on input line 1179.
+(pdftex.def)             Requested size: 1448.40773pt x 766.86314pt.
+ <Calibrationsoft.jpg, id=1561, 842.14626pt x 1046.91125pt>
+File: Calibrationsoft.jpg Graphic file (type jpg)
+
+<use Calibrationsoft.jpg>
+Package pdftex.def Info: Calibrationsoft.jpg used on input line 1179.
+(pdftex.def)             Requested size: 842.14421pt x 1046.9087pt.
+ <BlockIPAB.jpg, id=1562, 797.98125pt x 670.505pt>
+File: BlockIPAB.jpg Graphic file (type jpg)
+
+<use BlockIPAB.jpg>
+Package pdftex.def Info: BlockIPAB.jpg used on input line 1179.
+(pdftex.def)             Requested size: 797.9793pt x 670.50337pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[32
+
+ <./SIS3316.jpg> <./Waveform.jpg> <./Calibrationsoft.jpg> <./BlockIPAB.jpg>] <I
+PAy_pos_scan30dB.pdf, id=1594, 569.12625pt x 299.1175pt>
+File: IPAy_pos_scan30dB.pdf Graphic file (type pdf)
+
+<use IPAy_pos_scan30dB.pdf>
+Package pdftex.def Info: IPAy_pos_scan30dB.pdf used on input line 1183.
+(pdftex.def)             Requested size: 569.12486pt x 299.11676pt.
+
+Overfull \hbox (5.73575pt too wide) in paragraph at lines 1183--1183
+[][]  
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[33
+
+ <./IPAy_pos_scan30dB.pdf, page is rotated 90 degrees>]
+<fig29.pdf, id=1669, 1143.27126pt x 418.56375pt>
+File: fig29.pdf Graphic file (type pdf)
+ <use fig29.pdf>
+Package pdftex.def Info: fig29.pdf used on input line 1199.
+(pdftex.def)             Requested size: 1143.26846pt x 418.56271pt.
+
+<fig23.pdf, id=1670, 417.56pt x 290.08376pt>
+File: fig23.pdf Graphic file (type pdf)
+ <use fig23.pdf>
+Package pdftex.def Info: fig23.pdf used on input line 1199.
+(pdftex.def)             Requested size: 417.55896pt x 290.08304pt.
+
+<elect01.pdf, id=1671, 722.7pt x 542.025pt>
+File: elect01.pdf Graphic file (type pdf)
+ <use elect01.pdf>
+Package pdftex.def Info: elect01.pdf used on input line 1199.
+(pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[34
+
+ <./fig29.pdf> <./fig23.pdf> <./elect01.pdf>]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[35
+
+] <interfero.jpg, id=1762, 323.2075pt x 464.73625pt>
+File: interfero.jpg Graphic file (type jpg)
+ <use interfero.jpg>
+Package pdftex.def Info: interfero.jpg used on input line 1217.
+(pdftex.def)             Requested size: 323.20671pt x 464.7351pt.
+
+<image01.pdf, id=1763, 505.89pt x 722.7pt>
+File: image01.pdf Graphic file (type pdf)
+ <use image01.pdf>
+Package pdftex.def Info: image01.pdf used on input line 1217.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+
+<image06e.pdf, id=1764, 505.89pt x 722.7pt>
+File: image06e.pdf Graphic file (type pdf)
+ <use image06e.pdf>
+Package pdftex.def Info: image06e.pdf used on input line 1217.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+
+<image26e.pdf, id=1765, 505.89pt x 722.7pt>
+File: image26e.pdf Graphic file (type pdf)
+ <use image26e.pdf>
+Package pdftex.def Info: image26e.pdf used on input line 1217.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[36
+
+ <./interfero.jpg> <./image01.pdf> <./image06e.pdf> <./image26e.pdf>]
+File: BlockIPAB.jpg Graphic file (type jpg)
+
+<use BlockIPAB.jpg>
+Package pdftex.def Info: BlockIPAB.jpg used on input line 1230.
+(pdftex.def)             Requested size: 797.9793pt x 670.50337pt.
+File: Electr-crop.pdf Graphic file (type pdf)
+ <use Electr-crop.pdf>
+Package pdftex.def Info: Electr-crop.pdf used on input line 1230.
+(pdftex.def)             Requested size: 342.2779pt x 659.46213pt.
+
+<image01_calsy.pdf, id=1824, 505.89pt x 722.7pt>
+File: image01_calsy.pdf Graphic file (type pdf)
+ <use image01_calsy.pdf>
+Package pdftex.def Info: image01_calsy.pdf used on input line 1230.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+
+<image01_calsynorm.pdf, id=1825, 505.89pt x 722.7pt>
+File: image01_calsynorm.pdf Graphic file (type pdf)
+
+<use image01_calsynorm.pdf>
+Package pdftex.def Info: image01_calsynorm.pdf used on input line 1230.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+
+<image01_Calvscharge.pdf, id=1826, 505.89pt x 722.7pt>
+File: image01_Calvscharge.pdf Graphic file (type pdf)
+
+<use image01_Calvscharge.pdf>
+Package pdftex.def Info: image01_Calvscharge.pdf used on input line 1230.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[37
+
+ <./image01_calsy.pdf> <./image01_calsynorm.pdf> <./image01_Calvscharge.pdf>]
+File: quadrupole-scan.jpg Graphic file (type jpg)
+ <use quadrupole-scan.jpg>
+Package pdftex.def Info: quadrupole-scan.jpg used on input line 1246.
+(pdftex.def)             Requested size: 90.33728pt x 71.96869pt.
+File: Electr-crop.pdf Graphic file (type pdf)
+ <use Electr-crop.pdf>
+Package pdftex.def Info: Electr-crop.pdf used on input line 1246.
+(pdftex.def)             Requested size: 342.2779pt x 659.46213pt.
+
+<image01_jitter.pdf, id=1874, 505.89pt x 722.7pt>
+File: image01_jitter.pdf Graphic file (type pdf)
+ <use image01_jitter.pdf>
+Package pdftex.def Info: image01_jitter.pdf used on input line 1246.
+(pdftex.def)             Requested size: 505.88875pt x 722.69823pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[38
+
+ <./image01_jitter.pdf>] <resogeo.pdf, id=1915, 651.43375pt x 316.18124pt>
+File: resogeo.pdf Graphic file (type pdf)
+
+<use resogeo.pdf>
+Package pdftex.def Info: resogeo.pdf used on input line 1271.
+(pdftex.def)             Requested size: 651.43214pt x 316.18047pt.
+
+<3BPM_Measured_Predicted_changing_cals.pdf, id=1916, 569.12625pt x 299.1175pt>
+File: 3BPM_Measured_Predicted_changing_cals.pdf Graphic file (type pdf)
+
+<use 3BPM_Measured_Predicted_changing_cals.pdf>
+Package pdftex.def Info: 3BPM_Measured_Predicted_changing_cals.pdf used on inpu
+t line 1271.
+(pdftex.def)             Requested size: 569.12486pt x 299.11676pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[39
+
+ <./resogeo.pdf> <./3BPM_Measured_Predicted_changing_cals.pdf, page is rotated 
+90 degrees>] <fig01a.pdf, id=1997, 357.335pt x 332.24126pt>
+File: fig01a.pdf Graphic file (type pdf)
+
+<use fig01a.pdf>
+Package pdftex.def Info: fig01a.pdf used on input line 1292.
+(pdftex.def)             Requested size: 357.33412pt x 332.24043pt.
+ <fig03.pdf, id=1998, 384.43625pt x 399.4925pt>
+File: fig03.pdf Graphic file (type pdf)
+
+<use fig03.pdf>
+Package pdftex.def Info: fig03.pdf used on input line 1292.
+(pdftex.def)             Requested size: 384.4353pt x 399.49152pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[40
+
+ <./fig01a.pdf> <./fig03.pdf>]
+Overfull \hbox (104.00497pt too wide) in paragraph at lines 1303--1303
+[]|  [] 
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[41
+
+]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[42
+
+]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[43
+
+] <IPBy_sample.pdf, id=2133, 569.12625pt x 299.1175pt>
+File: IPBy_sample.pdf Graphic file (type pdf)
+
+<use IPBy_sample.pdf>
+Package pdftex.def Info: IPBy_sample.pdf used on input line 1389.
+(pdftex.def)             Requested size: 341.47838pt x 179.47188pt.
+
+Overfull \hbox (5.73575pt too wide) in paragraph at lines 1389--1389
+[][]  
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[44
+
+ <./IPBy_sample.pdf, page is rotated 90 degrees>]
+<xdecomp.jpg, id=2208, 338.76563pt x 76.78688pt>
+File: xdecomp.jpg Graphic file (type jpg)
+ <use xdecomp.jpg>
+Package pdftex.def Info: xdecomp.jpg used on input line 1394.
+(pdftex.def)             Requested size: 101.63046pt x 23.03622pt.
+
+<beamcomp.jpg, id=2209, 828.84656pt x 194.97844pt>
+File: beamcomp.jpg Graphic file (type jpg)
+ <use beamcomp.jpg>
+Package pdftex.def Info: beamcomp.jpg used on input line 1394.
+(pdftex.def)             Requested size: 248.65588pt x 58.49397pt.
+
+<orderscomp.jpg, id=2210, 501.37312pt x 359.84438pt>
+File: orderscomp.jpg Graphic file (type jpg)
+ <use orderscomp.jpg>
+Package pdftex.def Info: orderscomp.jpg used on input line 1394.
+(pdftex.def)             Requested size: 150.41309pt x 107.95413pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[45
+
+ <./xdecomp.jpg> <./beamcomp.jpg> <./orderscomp.jpg>]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[46
+
+]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[47
+
+] <chrom.png, id=2309, 475.7775pt x 279.29344pt>
+File: chrom.png Graphic file (type png)
+ <use chrom.png>
+Package pdftex.def Info: chrom.png used on input line 1425.
+(pdftex.def)             Requested size: 285.46869pt x 167.57735pt.
+
+Overfull \vbox (16.27074pt too high) detected at line 1425
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[48
+
+ <./chrom.png (PNG copy)>]
+File: telescope.jpg Graphic file (type jpg)
+ <use telescope.jpg>
+Package pdftex.def Info: telescope.jpg used on input line 1456.
+(pdftex.def)             Requested size: 153.80077pt x 65.26933pt.
+
+Overfull \hbox (43.80077pt too wide) in paragraph at lines 1456--1456
+[][]  
+ []
+
+
+Overfull \hbox (42.84639pt too wide) detected at line 1456
+\OT1/cmss/m/it/10.95 R \OT1/cmss/m/n/10.95 = []
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/bx/n' instead on input line 1456.
+
+
+Overfull \vbox (57.13968pt too high) detected at line 1456
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[49
+
+]
+Overfull \vbox (6.29425pt too high) detected at line 1469
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[50
+
+]
+File: fig01.pdf Graphic file (type pdf)
+ <use fig01.pdf>
+Package pdftex.def Info: fig01.pdf used on input line 1493.
+(pdftex.def)             Requested size: 120.44969pt x 55.70798pt.
+
+Overfull \vbox (33.06445pt too high) detected at line 1493
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[51
+
+]
+File: chromHV_500GeVa.pdf Graphic file (type pdf)
+ <use chromHV_500GeVa.pdf>
+Package pdftex.def Info: chromHV_500GeVa.pdf used on input line 1516.
+(pdftex.def)             Requested size: 202.3524pt x 289.07487pt.
+File: fig01.pdf Graphic file (type pdf)
+ <use fig01.pdf>
+Package pdftex.def Info: fig01.pdf used on input line 1516.
+(pdftex.def)             Requested size: 120.44969pt x 55.70798pt.
+
+<Xi_xa.pdf, id=2438, 505.89pt x 722.7pt>
+File: Xi_xa.pdf Graphic file (type pdf)
+ <use Xi_xa.pdf>
+Package pdftex.def Info: Xi_xa.pdf used on input line 1516.
+(pdftex.def)             Requested size: 101.1762pt x 144.53743pt.
+
+<Xi_ya.pdf, id=2439, 505.89pt x 722.7pt>
+File: Xi_ya.pdf Graphic file (type pdf)
+ <use Xi_ya.pdf>
+Package pdftex.def Info: Xi_ya.pdf used on input line 1516.
+(pdftex.def)             Requested size: 101.1762pt x 144.53743pt.
+
+Overfull \vbox (37.92096pt too high) detected at line 1516
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[52
+
+ <./Xi_xa.pdf> <./Xi_ya.pdf>]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[53
+
+] <phase_adv.pdf, id=2524, 1461.46pt x 534.99875pt>
+File: phase_adv.pdf Graphic file (type pdf)
+ <use phase_adv.pdf>
+Package pdftex.def Info: phase_adv.pdf used on input line 1590.
+(pdftex.def)             Requested size: 292.28682pt x 106.99785pt.
+
+Overfull \vbox (34.77301pt too high) detected at line 1590
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[54
+
+ <./phase_adv.pdf>] <nonlocalcorr.pdf, id=2568, 1630.09pt x 760.8425pt>
+File: nonlocalcorr.pdf Graphic file (type pdf)
+
+<use nonlocalcorr.pdf>
+Package pdftex.def Info: nonlocalcorr.pdf used on input line 1681.
+(pdftex.def)             Requested size: 195.60236pt x 91.29715pt.
+ <localcorr.pdf, id=2569, 1028.84375pt x 851.18pt>
+File: localcorr.pdf Graphic file (type pdf)
+
+<use localcorr.pdf>
+Package pdftex.def Info: localcorr.pdf used on input line 1681.
+(pdftex.def)             Requested size: 123.45592pt x 102.13719pt.
+ <noninterleavedcorr.pdf, id=2570, 1448.41125pt x 762.85pt>
+File: noninterleavedcorr.pdf Graphic file (type pdf)
+
+<use noninterleavedcorr.pdf>
+Package pdftex.def Info: noninterleavedcorr.pdf used on input line 1681.
+(pdftex.def)             Requested size: 217.2523pt x 114.42256pt.
+
+Overfull \vbox (26.51283pt too high) detected at line 1681
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[55
+
+ <./nonlocalcorr.pdf> <./localcorr.pdf> <./noninterleavedcorr.pdf>]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[56
+
+] <CLICtrad_etax-crop.pdf, id=2667, 508.90125pt x 596.2275pt>
+File: CLICtrad_etax-crop.pdf Graphic file (type pdf)
+
+<use CLICtrad_etax-crop.pdf>
+Package pdftex.def Info: CLICtrad_etax-crop.pdf used on input line 1691.
+(pdftex.def)             Requested size: 203.55688pt x 238.48677pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[57
+
+ <./CLICtrad_etax-crop.pdf>]
+<CLICtrad_wx-crop.pdf, id=2705, 508.90125pt x 596.2275pt>
+File: CLICtrad_wx-crop.pdf Graphic file (type pdf)
+
+<use CLICtrad_wx-crop.pdf>
+Package pdftex.def Info: CLICtrad_wx-crop.pdf used on input line 1698.
+(pdftex.def)             Requested size: 203.55688pt x 238.48677pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[58
+
+ <./CLICtrad_wx-crop.pdf>]
+<CLICtrad_wy-crop.pdf, id=2743, 508.90125pt x 596.2275pt>
+File: CLICtrad_wy-crop.pdf Graphic file (type pdf)
+
+<use CLICtrad_wy-crop.pdf>
+Package pdftex.def Info: CLICtrad_wy-crop.pdf used on input line 1705.
+(pdftex.def)             Requested size: 203.55688pt x 238.48677pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[59
+
+ <./CLICtrad_wy-crop.pdf>]
+<CLICtrad_ddx-crop.pdf, id=2781, 508.90125pt x 576.1525pt>
+File: CLICtrad_ddx-crop.pdf Graphic file (type pdf)
+
+<use CLICtrad_ddx-crop.pdf>
+Package pdftex.def Info: CLICtrad_ddx-crop.pdf used on input line 1712.
+(pdftex.def)             Requested size: 203.55688pt x 230.45691pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[60
+
+ <./CLICtrad_ddx-crop.pdf>]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[61
+
+] <ILClocal_etax-crop.pdf, id=2851, 508.90125pt x 633.36626pt>
+File: ILClocal_etax-crop.pdf Graphic file (type pdf)
+
+<use ILClocal_etax-crop.pdf>
+Package pdftex.def Info: ILClocal_etax-crop.pdf used on input line 1730.
+(pdftex.def)             Requested size: 203.55688pt x 253.34201pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[62
+
+ <./ILClocal_etax-crop.pdf>]
+<ILClocal_wx-crop.pdf, id=2889, 508.90125pt x 611.28375pt>
+File: ILClocal_wx-crop.pdf Graphic file (type pdf)
+
+<use ILClocal_wx-crop.pdf>
+Package pdftex.def Info: ILClocal_wx-crop.pdf used on input line 1737.
+(pdftex.def)             Requested size: 203.55688pt x 244.50917pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[63
+
+ <./ILClocal_wx-crop.pdf>]
+<ILClocal_wy-crop.pdf, id=2927, 508.90125pt x 604.2575pt>
+File: ILClocal_wy-crop.pdf Graphic file (type pdf)
+
+<use ILClocal_wy-crop.pdf>
+Package pdftex.def Info: ILClocal_wy-crop.pdf used on input line 1744.
+(pdftex.def)             Requested size: 203.55688pt x 241.69872pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[64
+
+ <./ILClocal_wy-crop.pdf>]
+<ILClocal_ddx-crop.pdf, id=2965, 508.90125pt x 634.37pt>
+File: ILClocal_ddx-crop.pdf Graphic file (type pdf)
+
+<use ILClocal_ddx-crop.pdf>
+Package pdftex.def Info: ILClocal_ddx-crop.pdf used on input line 1751.
+(pdftex.def)             Requested size: 203.55688pt x 253.7435pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[65
+
+ <./ILClocal_ddx-crop.pdf>]
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[66
+
+]
+Overfull \vbox (13.92656pt too high) detected at line 1777
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[67
+
+] <CLIC500noninter_etax-crop.pdf, id=3066, 508.90125pt x 590.205pt>
+File: CLIC500noninter_etax-crop.pdf Graphic file (type pdf)
+
+<use CLIC500noninter_etax-crop.pdf>
+Package pdftex.def Info: CLIC500noninter_etax-crop.pdf used on input line 1784.
+
+(pdftex.def)             Requested size: 203.55688pt x 236.0778pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[68
+
+ <./CLIC500noninter_etax-crop.pdf>]
+<CLIC500noninter_wxwy-crop.pdf, id=3105, 508.90125pt x 611.28375pt>
+File: CLIC500noninter_wxwy-crop.pdf Graphic file (type pdf)
+
+<use CLIC500noninter_wxwy-crop.pdf>
+Package pdftex.def Info: CLIC500noninter_wxwy-crop.pdf used on input line 1791.
+
+(pdftex.def)             Requested size: 203.55688pt x 244.50917pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[69
+
+ <./CLIC500noninter_wxwy-crop.pdf>]
+<CLIC500noninter_ddx-crop.pdf, id=3144, 508.90125pt x 627.34375pt>
+File: CLIC500noninter_ddx-crop.pdf Graphic file (type pdf)
+
+<use CLIC500noninter_ddx-crop.pdf>
+Package pdftex.def Info: CLIC500noninter_ddx-crop.pdf used on input line 1798.
+(pdftex.def)             Requested size: 203.55688pt x 250.93304pt.
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[70
+
+ <./CLIC500noninter_ddx-crop.pdf>]
+<sigmas.pdf, id=3182, 505.89pt x 722.7pt>
+File: sigmas.pdf Graphic file (type pdf)
+ <use sigmas.pdf>
+Package pdftex.def Info: sigmas.pdf used on input line 1841.
+(pdftex.def)             Requested size: 126.47218pt x 180.67455pt.
+
+Overfull \vbox (142.29239pt too high) detected at line 1841
+ []
+
+
+Overfull \hbox (4.9927pt too wide) has occurred while \output is active
+  [] [] [] [] [] []  
+ []
+
+[71
+
+ <./sigmas.pdf>]
+\tf@nav=\write7
+\openout7 = `OscarBLANCO_these_presentation.nav'.
+
+\tf@toc=\write8
+\openout8 = `OscarBLANCO_these_presentation.toc'.
+
+\tf@snm=\write9
+\openout9 = `OscarBLANCO_these_presentation.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1843.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1843.
+ (./OscarBLANCO_these_presentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1843.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1843.
+
+Package rerunfilecheck Info: File `OscarBLANCO_these_presentation.out' has not 
+changed.
+(rerunfilecheck)             Checksum: C381896A7CB7628C9B4CA255D78E08B5;313.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1843.
+ ) 
+Here is how much of TeX's memory you used:
+ 20248 strings out of 493308
+ 377985 string characters out of 6140093
+ 462661 words of memory out of 5000000
+ 22978 multiletter control sequences out of 15000+600000
+ 19125 words of font info for 70 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 49i,15n,63p,967b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+s8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/latxfont/line10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/symbols/msam7.pfb>
+Output written on OscarBLANCO_these_presentation.pdf (71 pages, 58286354 bytes)
+.
+PDF statistics:
+ 3323 PDF objects out of 3580 (max. 8388607)
+ 153 named destinations out of 1000 (max. 500000)
+ 598 words of extra memory for PDF output out of 10000 (max. 10000000)
+

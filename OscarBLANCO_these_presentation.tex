@@ -96,7 +96,17 @@
 
 \frame{\titlepage} 
 
-\frame{\frametitle{Table of contents}\tableofcontents} 
+% \frame{\frametitle{Table of contents}\tableofcontents} 
+\begin{frame}{Table of contents}
+
+\begin{itemize}
+ \item {\color{blue} Introduction to linear colliders}
+ \item {\color{blue} Final focus and small beam size (\underline{CLIC}, ILC, ATF2)}
+ \item {\color{blue}Beam positioning and stabilization (CLIC, ILC, \underline{ATF2})}
+ \item {\color{blue} Conclusions}
+\end{itemize}
+\end{frame}
+
 
 \section{Introduction to linear colliders}
 \begin{frame}{The need of colliders to explore particle physics}\,
@@ -139,6 +149,7 @@
 \put(240,-45){s}
 \put(235	,-25){\tikz\draw[thick,red,->](0,0) -- (1,0);}
 \put(270,-20){\tikz\draw[thick,red,->](0,0) -- (-1,0);}
+\put(60,0){\scriptsize $\Delta E\propto E^4/(\rho m_0^4)$}
 \end{picture}
 
  \begin{equation*}
@@ -374,11 +385,13 @@ Linear colliders feature \textbf{nm beam size} to achieve $10^{34}$ luminosities
  \begin{picture}(0,0)
  \put(-10,30){\includegraphics[scale=0.4]{quadrupolem.jpg}}
  \put(120,30){\includegraphics[scale=0.4]{20060330di-043.jpg}}
- \put(10,20){\tiny Focusing elements are magnets with 4 poles: quadrupoles}
+ \put(-10,20){\scriptsize Focusing elements are magnets with 4 poles: quadrupoles}
   \put(230,25){\includegraphics[scale=0.28]{chromaticity.pdf}}
-  \put(220,20){\tiny Quads behave as lenses: chromatic effect}
+  \put(210,20){\tiny Quads behave as lenses: chromatic effect}
+  \put(225,10){\tiny It is a second order effect, $\delta^2$}
   \put(0,0){\tiny The stronger set of lenses is the Final Doublet (FD): \textbf{QD0}, \textbf{QF1}}
   \put(0,-10){\tiny What are the distances to minimize the chromaticity ?}
+  \put(0,-20){\tiny $\mathbf{L\approx(1\sim2)L_{IP}}$, (Blanco, IPAC 2014)}
  \put(0,-110){\includegraphics[angle=0,scale=0.4]{fig01.pdf}} 
  \put(140,0){\includegraphics[angle=-90,scale=0.1]{chromHV_500GeVa.pdf}}
  \put(230,-10){\tiny \textbf{Correction of Chromatic effect}}
@@ -390,7 +403,7 @@ Linear colliders feature \textbf{nm beam size} to achieve $10^{34}$ luminosities
 \end{frame}
 \begin{frame}{Chromaticity correction}
 \begin{picture}(0,0)
- \put(0,80){\tiny Local chromaticity correction (Brown, 1988)}
+ \put(0,80){\tiny Non-Local chromaticity correction (Brown, 1988)}
  \put(215,90){\tiny Current \textbf{CLIC}, \textbf{ILC} and \textbf{ATF2} lines}
  \put(200,80){\tiny Local chromaticity correction (Raimondi, 2000)}
  \put(0,20){\includegraphics[scale=0.1]{nonlocalcorr2.pdf}}
@@ -399,15 +412,16 @@ Linear colliders feature \textbf{nm beam size} to achieve $10^{34}$ luminosities
  \put(215,-75){\includegraphics[scale=0.4]{CLIC3TeV_FFS_local-crop-crop.pdf}}
  \put(0,12){\tiny Easier to correct static errors, Longer line}
 %  \put(0,2){\tiny Longer line}
- \put(200,12){\tiny More difficult to correct static errors, Shorter line}
+ \put(210,12){\tiny More difficult to correct static errors, Shorter line}
+ \put(125,0){\tiny (H. Garc\'ia, PRST-AB 17 101001)}
 %  \put(200,2){\tiny Shorter line}
 \put(115,-100){\includegraphics[scale=0.08]{noninterleavedcorr2.pdf}}
-\put(60,-110){\tiny Recent proposal: The non-interleaved line (Tomas, Blanco, Bambade, 2014)}
+\put(60,-110){\tiny Recent proposal: The non-interleaved line (Tomas, Blanco, Bambade, IPAC 2014)}
 \end{picture}
 \end{frame}
 
 
-\section{Final focus and small beam size (CLIC)}
+\section{Final focus and small beam size  (CLIC)}
 % \section{Oide effect}
 \begin{frame}
  \color{blue}\Large Final focus and small beam size
@@ -496,7 +510,7 @@ $N$: is the number of photons radiated (Poisson distribution)
     \put(230,-30){$\alpha$}
 \end{picture}
 \vspace*{2.5cm}\par
-{\tiny Sands expression was valid for $\alpha=0, \eta=0$.\par
+{\tiny Sands expression was valid for $\alpha_L=0, \eta_L=0$.\par
 During the design process not always the focus is perfect $\alpha=0$, nor the $\eta$ is perfectly corrected.\par
 }
 \begin{equation*}
@@ -508,7 +522,7 @@ It becomes:\centering
  {\color{blue}\sigma_{rad}^2}\approx  \int \frac{E^5}{\rho^3}\left\{\sqrt{\frac{\beta_L}{\beta_s}}\left[\eta\cos\Delta\phi(s,L)+(\alpha\eta+\beta\eta')\sin\Delta\phi(s,L)\right]-\eta_L\right\}^2ds
 \end{equation*}
 }
-{\tiny included in MAPCLASS2, lattice optimization code (published in CLIC-Note-1049)}.\par
+{\scriptsize included in MAPCLASS2, lattice optimization code (published in CLIC-Note-1049)}.\par
 \end{frame}
 
 
@@ -779,7 +793,7 @@ ILC  500 GeV & 40 & $\;\;$489.2 & 5.7 & 0.170 & 2.20 &4.3& 9.567 & 0.04 & 5.7 & 
 \end{table}\par
 }
 \end{frame}
-\begin{frame}{Oide in CLIC 3TeV}
+\begin{frame}{Oide in CLIC 3TeV}\,\vspace*{-0.3cm}
 %  The current particle distribution in CLIC 3TeV at the IP.
  \includegraphics[scale=0.2,angle=-90]{plotxrad.pdf}
  \includegraphics[scale=0.2,angle=-90]{plotyrad.pdf}\\\centering
@@ -850,10 +864,9 @@ A pair of correctors is added to the strong focusing in order to mitigate the ra
 %  Beam size reduction of 4\% !\par
 % \end{frame}
 % \subsection{Limitation}
-\begin{frame}{Result}\,\vspace*{-2.6cm}
-{\tiny 
- A 4\% of beam size reduction was possible for CLIC 3 TeV (6\%$\sim$7\% of Oide effect reduction).\par
- Why it was not possible to reduce the correlation even more ?}\par\centering\vspace*{-0.0cm}
+\begin{frame}{Result}\,\vspace*{-2.6cm}\centering
+{\scriptsize 
+ A 4\% of beam size reduction was possible for CLIC 3 TeV (6\%$\sim$7\% of Oide effect reduction).}\par\centering\vspace*{0.5cm}
  {\scriptsize
  \begin{tabular}{c||c|c|c|c||c|c||c|c}\hline
 & \multicolumn{2}{c|}{OD1} &\multicolumn{2}{c||}{OD0} & $\sigma_x$ & $\sigma_y$ & $L_{tot}$ & $L_{peak}$\\
@@ -868,9 +881,10 @@ RAD    & 0.01 & 1502 & 0.01 & -3900 & 47.45 & 1.17 & 7.1 & 2.7 \\\hline
 }\par
 \begin{picture}(0,0)
  \put(0,0){\includegraphics[angle=-90,scale=0.20]{lattice_CLIC_3TeVFD.pdf}}
- \put(0,-10){\tiny (to be submitted to PRST-AB next week).}
- \put(150,-40){\tiny ($\beta_y/\beta_x$) ratio needs to be equal for both correctors.}
- \put(150,-50){\tiny The phase advance between correctors.}
+ \put(0,-10){\tiny (Blanco IPAC15, to be submitted to PRST-AB next week).}
+ \put(150,-40){\tiny ($\beta_y/\beta_x$) ratio needs to be equal for both correctors,}
+ \put(150,-50){\tiny and the phase advance between correctors (Xu, PRST-AB.8.104002).}
+ \put(150,-30){\tiny Why it was not possible to reduce the correlation even more ?}
 \end{picture}
 % %  \includegraphics[scale=0.3,angle=0]{Oide2.pdf}\par\raggedright
 %  \begin{itemize}
@@ -880,7 +894,18 @@ RAD    & 0.01 & 1502 & 0.01 & -3900 & 47.45 & 1.17 & 7.1 & 2.7 \\\hline
 %   \item Mean correlation could be reduced to a minimum as \par there is not correlation per each particle
 %  \end{itemize}
 \end{frame}
-
+\begin{frame}{Partial Conclusions...}
+\scriptsize
+ \begin{itemize}
+  \item Three theoretical and computational contributions have been given to the FFS design and optimization at 3~TeV
+  \begin{itemize}\scriptsize
+  \item chromaticity minimization: distance between QD0 and QF1 between 1$\sim$2 times $L_{IP}$
+  \item Oide effect: Oide beam size contribution reduced by (6$\sim$7)\%
+  \item Radiation in Bending Magnets: Generalization of theoretical formula for lattice design including radiation effects, and an improvement in the tracking code PLACET.
+  \end{itemize}
+  \item One new chromaticity correction method has been proposed and initially studied.
+ \end{itemize}
+\end{frame}
 % % \subsection{Conclusions}
 % \begin{frame}{Conclusions}
 % \begin{itemize}
@@ -1001,7 +1026,7 @@ RAD    & 0.01 & 1502 & 0.01 & -3900 & 47.45 & 1.17 & 7.1 & 2.7 \\\hline
 
 
 
-\section{Beam positioning and stabilization (ILC, ATF)}
+\section{Beam positioning and stabilization  (ATF2)}
 \begin{frame}
  \color{blue}\Large Beam positioning and stabilization
 \end{frame}
@@ -1022,14 +1047,14 @@ RAD    & 0.01 & 1502 & 0.01 & -3900 & 47.45 & 1.17 & 7.1 & 2.7 \\\hline
 % The FFS in ILC ($\sim700$~m) was scale down to $\sim38$~m
 % }\par
 \begin{picture}(0,0)
-\put(0,65){\tiny ATF2 is an extension of ATF (Accelerator Test Facility Test) to be used for the linear colliders R\&D.}
-\put(0,55){\tiny The FFS in ILC ($\sim700$~m) was scale down to $\sim38$~m}
-\put(0,45){\tiny Beam of e$^-$ at 1.3~GeV}
+\put(0,65){\scriptsize ATF2 is an extension of ATF (Accelerator Test Facility Test) for the linear colliders R\&D.}
+\put(0,55){\scriptsize The FFS in ILC ($\sim700$~m) was scale down to $\sim38$~m}
+\put(0,45){\scriptsize Beam of e$^-$ at 1.3~GeV}
  \put(-10,-50){\includegraphics[scale=0.5]{LigneATF2.jpg}}
- \put(0,-80){\tiny \textbf{Goal 1:} 37~nm of vertical beam size at the IP}
- \put(0,-90){\tiny \textbf{Goal 2:} beam stabilization at the nm level}
- \put(0,-100){\tiny \textbf{We need to measure with nm resolution close to the IP}}
- \put(0,-110){\tiny A vertical beam size of 44~nm was achieved by systematic tuning.}
+ \put(20,-70){\scriptsize \textbf{Goal 1:} 37~nm of vertical beam size at the IP}
+ \put(20,-100){\scriptsize \textbf{Goal 2:} beam stabilization at the nm level}
+ \put(0,-110){\scriptsize \textbf{Measured beam position with nm resolution close to the IP}}
+ \put(0,-80){\scriptsize 44~nm beam size has been achieved by systematic tuning.}
  \put(230,-120){\includegraphics[scale=0.5]{15_ATF2.jpg}}
 \end{picture}
 \end{frame}
@@ -1048,6 +1073,12 @@ RAD    & 0.01 & 1502 & 0.01 & -3900 & 47.45 & 1.17 & 7.1 & 2.7 \\\hline
  \put(170,-25){\tiny \textbf{Position and angle}}
  \put(0,70){\scriptsize\textbf{Sensitivity}}
  \put(0,60){\scriptsize X: 2.2~$\mu$V/nm/nC,  Y: 3.7~$\mu$V/nm/nC,  Ref: 3.27~V/nC}
+ \put(59,0){\tikz\draw[thick] (0,0) -- (1,0);}
+ \put(94,0){\tikz\draw[thick] (0,0) -- (1,0);}
+ \put(202,0){\tikz\draw[thick] (0,0) -- (1,0);}
+ \put(212,-10){\scriptsize $Q$}
+ \put(104,-10){\scriptsize $X$}
+ \put(68,-10){\scriptsize $Y$}
 %  \put(180,30){\includegraphics[angle=0,scale=0.20]{Waveguide.jpg}}
 %  \put(0,0){\includegraphics[angle=-90,scale=0.25]{Electr-crop}}
 %  \put(180,-100){\includegraphics[angle=0,scale=0.22]{elect01.pdf}}
@@ -1055,6 +1086,15 @@ RAD    & 0.01 & 1502 & 0.01 & -3900 & 47.45 & 1.17 & 7.1 & 2.7 \\\hline
 
 \end{picture}
 \end{frame}
+\begin{frame}{System Measurements}
+\scriptsize
+\begin{itemize}
+ \item \textbf{Calibration}: cavity signal/displacement\\\hspace*{0.4cm}Piezo movers and cavity response
+ \item \textbf{BPMs resolution}: minimum beam position measurable
+ \item \textbf{Cavities alignment}: finding the center of the BPMs
+\end{itemize}
+\end{frame}
+
 \begin{frame}{Cavity Electronics}
 \begin{picture}(0,0)
 %  \put(0,30){\includegraphics[angle=0,scale=0.20]{TMdipole.jpg}}
@@ -1087,6 +1127,22 @@ RAD    & 0.01 & 1502 & 0.01 & -3900 & 47.45 & 1.17 & 7.1 & 2.7 \\\hline
  \put(50,20){\tiny 1~nm/10~$\mu$m=10$^{-4}$}
 \end{picture}
 \end{frame}
+\begin{frame}{The installation}
+\begin{picture}(0,0)
+ \put(0,0){\includegraphics[scale=0.025]{DSC00239.JPG}}
+ \put(0,0){\includegraphics[scale=0.025]{DSC00239.JPG}}
+
+\put(000,-100){\includegraphics[scale=0.03]{DSC00470.JPG}}
+\put(000,-100){\includegraphics[scale=0.03]{DSC00470.JPG}}
+\put(200,0){\includegraphics[scale=0.018]{DSC_2662.JPG}}
+\put(200,-100){\includegraphics[scale=0.025]{DSC00186.JPG}}
+\put(100,-50){\includegraphics[scale=0.03]{DSC00400.JPG}}
+
+ 
+\end{picture}
+
+ 
+\end{frame}
 \begin{frame}{IPBPMs alignment}
   The alignment goal is:
  \begin{enumerate}
@@ -1118,17 +1174,22 @@ $A=\sqrt{I'+Q'}<\text{elect. dyn. range}$(e.g. 0.3$\sim$0.6$\mu$m @0dB@10$^{10}$
  \put(190,10){\scriptsize \textbf{Calibration} = Signal/\textbf{Displacement}}
  \put(250,-10){\tiny Systematic change of movers 1,2,3}
  \put(250,-20){\tiny while the beam is running}
- \put(0,-110){\tiny \textbf{Progress toward the integration with the ATF tuning instrumentation}}
+ \put(0,-110){\tiny \textbf{Progress towards the integration with the ATF tuning instrumentation}}
 \end{picture}
 \end{frame}
+\begin{frame}{Calibration}
+% \includegraphics[angle=0,scale=0.05]{BlockIPAB.jpg}
+\includegraphics[angle=0,scale=0.6]{IPAy_pos_scan30dB.pdf}
+\end{frame}
+
 \begin{frame}{Displacing the blocks (piezo-movers)}\,\vspace*{0.5cm}
  \begin{picture}(0,0)
   \put(0,30){\includegraphics[angle=0,scale=0.15]{fig29.pdf}}
   \put(250,40){\includegraphics[angle=0,scale=0.15]{fig23.pdf}}
   \put(0,-110){\includegraphics[angle=0,scale=0.25]{elect01.pdf}}
   \put(180,30){\tiny Movers can change vertical and horizontal position, or pitch.}
-  \put(180,80){\tiny IPAB: $\pm$250~$\mu$m, $\pm$1~mrad.}
-  \put(180,70){\tiny IPC : $\pm$300~$\mu$m, $\pm$2~mrad.}
+  \put(180,80){\tiny IPAB: 250~$\mu$m, $\pm$1~mrad.}
+  \put(180,70){\tiny IPC : 300~$\mu$m, $\pm$2~mrad.}
   \put(200,-30){\tiny Laptop running NI VI.}
   \put(200,-40){\tiny DACs 16 bits/ADC 24~bits$\rightarrow$Step resolution.}
   \put(200,-50){\tiny Control Boxes (PI, Cedrat)$\rightarrow$Feedback.}
@@ -1159,12 +1220,12 @@ $A=\sqrt{I'+Q'}<\text{elect. dyn. range}$(e.g. 0.3$\sim$0.6$\mu$m @0dB@10$^{10}$
   \put(30,5){\includegraphics[angle=0,scale=0.1]{BlockIPAB.jpg}}
   \put(150,75){\includegraphics[angle=-90,scale=0.22]{Electr-crop}}
   \put(190,13){\tikz\draw[red,dashed,thick] (0,0) circle (0.3);}
-  \put(-10,0){\includegraphics[angle=-90,scale=0.16]{image01_calsy.pdf}}
-  \put(100,0){\includegraphics[angle=-90,scale=0.16]{image01_calsynorm.pdf}}
-  \put(210,0){\includegraphics[angle=-90,scale=0.17]{image01_Calvscharge}}
+  \put(-10,-10){\includegraphics[angle=-90,scale=0.16]{image01_calsy.pdf}}
+  \put(100,-10){\includegraphics[angle=-90,scale=0.16]{image01_calsynorm.pdf}}
+  \put(210,-10){\includegraphics[angle=-90,scale=0.17]{image01_Calvscharge}}
   \put(250,-30){\tiny @10~db att.}
-  \put(0,80){\tiny The block position is systematically \textbf{changed in steps} to obtain signal/displacement ratio per attenuations.}
-  \put(0,-90){\tiny IPBy shows saturation and it is used to determine the dynamic range (10$\mu$m@10~dB~att.@0.4x10$^{10}$).}
+  \put(0,80){\scriptsize The block position is systematically \textbf{changed in steps} to obtain signal/displacement ratio.}
+  \put(-10,-100){\scriptsize IPBy shows saturation and it is used to determine the dynamic range (10$\mu$m@10dB~att.@0.4x10$^{10}$).}
  \end{picture}
 \end{frame}
 \begin{frame}{Resolution (noise floor)}
@@ -1177,7 +1238,7 @@ $A=\sqrt{I'+Q'}<\text{elect. dyn. range}$(e.g. 0.3$\sim$0.6$\mu$m @0dB@10$^{10}$
 %   \put(100,0){\includegraphics[angle=-90,scale=0.16]{image01_calsynorm.pdf}}
 %   \put(210,0){\includegraphics[angle=-90,scale=0.17]{image01_Calvscharge}}
 %   \put(250,-30){\tiny @10~db att.}
-  \put(0,80){\tiny The block position is \textbf{fixed} and the beam position is measured using the calibrations.}
+  \put(0,80){\scriptsize The block position is \textbf{fixed} and the beam position is measured using the calibrations.}
   \put(160,-40){\scriptsize Electronics Noise imposes a limit on resolution.}
   \put(200,-50){\scriptsize IPA,IPB: ~10~nm.}
   \put(200,-60){\scriptsize IPC: ~20~nm ?!}
@@ -1192,7 +1253,7 @@ $A=\sqrt{I'+Q'}<\text{elect. dyn. range}$(e.g. 0.3$\sim$0.6$\mu$m @0dB@10$^{10}$
 %   \put(100,0){\includegraphics[angle=-90,scale=0.16]{image01_calsynorm.pdf}}
 %   \put(210,0){\includegraphics[angle=-90,scale=0.17]{image01_Calvscharge}}
 %   \put(250,-30){\tiny @10~db att.}
-  \put(0,125){\tiny The block position is \textbf{fixed} and the beam position is measured using the calibrations.}
+  \put(0,125){\scriptsize The block position is \textbf{fixed} and the beam position is measured using the calibrations.}
   \put(0,-60){\scriptsize \textbf{Resolution~$\sim$~47~nm.}}
 %   \put(0,-90){\tiny IPBy shows saturation and it is used to determine the dynamic range (10$\mu$m@10~dB~att.@0.4x10$^{10}$).}
  \end{picture}
@@ -1209,25 +1270,36 @@ Resolution [nm] & $47.6\pm0.8$ & $47.7\pm0.8$ & $46.9\pm0.7$ \\\hline
 }
 \end{frame}
 \begin{frame}{Alignment}
- The initial installation was corrected by tilting the optical table\par
- (S. Jang, IPAC14)\par\centering
- \includegraphics[angle=0,scale=0.23]{Optictable.jpg}\\
- After a second installation the alignment results have been:\par\centering
+\scriptsize
+ The initial installation was corrected by tilting the optical table
+ (S. Jang, IPAC14)\par\centering\vspace*{4cm}\par
+ \begin{picture}(0,0)
+ \put(-140,40){\includegraphics[angle=0,scale=0.23]{fig01a.pdf}}
+ \put(0,65){\includegraphics[angle=-45,scale=0.23]{fig03.pdf}}
+ \put(-120,30){\textbf{Position scan}}
+ \put(40,30){\textbf{Angle scan}}
+ \put(-160,20){Try to find the center of the cavity (I'=0)}
+ \put(-160,10){Find the center and try to make the cavity perpendicular to the beam (I'=0,Q'=0)}
+ \end{picture}
+ 
+ After a second installation, using I'=0, the alignment results have been:\par\centering
   \begin{tabular}{c||c|c|c}\hline
  Vertical & IPA &IPB & IPC \\\hline\hline
  Y [$\mu$m] & -7 & +79 & - \\
  $\theta_p$ [mrad] & 0.024 & 1.0& -\\\hline
- \end{tabular}\par
-\end{frame}
+ \end{tabular}\par\raggedright
+ \textbf{Currently, this is not a limitation.}\par
+ \end{frame}
 \begin{frame}{Status of the IP-BPMs}\,
-\tiny\hspace*{-0.6cm}
+\scriptsize\hspace*{-0.6cm}
  \begin{tabular}{l|l|l|p{6cm}}\hline
 PARAMETER & REQUIREMENT & STATUS & Comments\\\hline\hline
-Resolution & $\sim$nm@$1\times10^{10}$ & $<$50nm@$0.4\sim0.5\times10^{10}$ & Calibration factors within 5\% linearity\newline BPM/Electronics noise : 10~nm per cavity\newline IPC sensitivity and/or gain : +20nm \newline X to Y coupling is still unexplored\\\hline
-Dynamic Range & $\sim$10$\mu$m+extra@0~dB~att.& $9\sim11\mu$m@10~dB att. & Cavity response is linear within 5\%\newline Electronics starts to saturate\newline at $0.4\times10^{10}$@10~dB att.\newline IPBy Q' signal saturates at 0~dB\\\hline
-Compatibility & IPBSM, EPICS & In progress &Calibration Software : Initial version released and in use. Requires comparison with offline results.\newline Jitter analysis Software : Initial version released and in use. Requires comparison with offline analysis.\newline IP-BSM, requires study of resolution vs low charge, $0.1\sim0.5\times10^{10}$ \\\hline
-Feedback & Operative & Tested	& Jitter reduction to 67 nm.\newline Limited by BPM resolution.\\\hline
+Resolution & $\sim$nm@$1\times10^{10}$ & $<$50nm@$0.4\sim0.5\times10^{10}$ &\tiny Cal. factors within 5\% linearity\newline Elect. noise:10~nm/BPM\newline IPC sens. and/or gain : +20nm \newline X to Y coupling?\\\hline
+Dynamic Range & $\sim$10$\mu$m+extra@0~dB~att.& $9\sim11\mu$m@10~dB att. &\tiny Response is linear within 5\%\newline Electronics starts to saturate\newline at $0.4\times10^{10}$@10~dB att.\newline IPBy Q' signal sats. at 0~dB\\\hline
+Compatibility & IPBSM, EPICS & In progress &\tiny Cal. Software : Initial version.\newline Requires comp. w offline results.\newline Jitter Software: Initial version.\newline Requires comp. w offline results.\newline IP-BSM, requires study of res.\newline at low charge,$0.1\sim0.5\times10^{10}$ \\\hline
+Feedback & Operative & Tested	&\tiny Jitter reduction to 67 nm.\newline Limited by BPM resolution.\\\hline
 \end{tabular}
+(IPAC15)
 \end{frame}
 
 
@@ -1270,10 +1342,10 @@ Feedback & Operative & Tested	& Jitter reduction to 67 nm.\newline Limited by BP
   \item Radiation in Bending Magnets: Generalization of theoretical formula for lattice design including radiation effects, and an improvement in the tracking code PLACET.
   \end{itemize}
   \item One new chromaticity correction method has been proposed and initially studied.
-  \item The experimental work reached 50~nm resolution of the IP-BPMs. The system characterization points to upgrade the electronics to reach better resolution.
+  \item The measured resolution of the IPBPMs is below 50~nm. The system characterization points to upgrade the electronics to reach better resolution.
   \item This work is relevant for high energy colliders in the TeV energy scale and beyond.
  \end{itemize}
- Thank you, I felt welcome at LAL, CERN and ATF.
+ Thank you!%, I felt welcome at LAL, CERN and ATF.
 \end{frame}
 
 
@@ -1308,10 +1380,37 @@ Feedback & Operative & Tested	& Jitter reduction to 67 nm.\newline Limited by BP
 
 
 
-\section*{Extra slides}
-\begin{frame}
+\section[.]{Extra slides}
+\begin{frame}{I,Q,Ref}
  \color{blue}\Large Extra slides
 \end{frame}
+\begin{frame}
+ \includegraphics[scale=0.6]{IPBy_sample.pdf}
+\end{frame}
+\begin{frame}{Mapclass}
+ \includegraphics[scale=0.3]{xdecomp.jpg}\\
+\includegraphics[scale=0.3]{beamcomp.jpg}\\
+\includegraphics[scale=0.3]{orderscomp.jpg}
+\end{frame}
+
+
+\begin{frame}{Geometric factor}
+\scriptsize
+ \begin{align}
+ \frac{\sigma_{Rm}}{\sqrt{\langle R_t^2\rangle}}&=1\\
+ \frac{\sigma_{Rm}}{\sqrt{\left(\frac{\partial R_t}{\partial y_A}\right)^2r_A^2+\left(\frac{\partial R_t}{\partial y_B}\right)^2r_B^2+\left(\frac{\partial R_t}{\partial y_C}\right)^2r_C^2}}&=1\label{eq:allr}\\
+ \frac{\sigma_{Rm}}{\sqrt{\left(\frac{\partial R_t}{\partial y_A}\right)^2+\left(\frac{\partial R_t}{\partial y_B}\right)^2+\left(\frac{\partial R_t}{\partial y_C}\right)^2}}&=r\label{eq:samer}\\
+ g\sigma_{Rm}&=r
+\end{align}
+The equations used for position prediction are shown in Eq.~(\ref{eq:pred}), where the coeficients are calculated from the longitudinal distance among BPMs.\par
+\begin{align}
+ f_A(y_B,y_C)=&1.463y_B -0.463y_C\notag\\
+ f_B(y_A,y_C)=&0.683y_A +0.317y_C\notag\\
+ f_C(y_A,y_B)=&-2.156y_A +3.156y_B\label{eq:pred}
+\end{align}
+\end{frame}
+
+
 % \section{Telescope Design}
 \begin{frame}
  \color{blue}\Large Telescope Design

@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Beamsize}{3}{0}{1}
+\beamer@sectionintoc {2}{Radiation on bending magnets}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Theoretical model}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{One dipole}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{Low number of photons}{10}{0}{2}
+\beamer@subsectionintoc {2}{4}{Conclusions}{12}{0}{2}

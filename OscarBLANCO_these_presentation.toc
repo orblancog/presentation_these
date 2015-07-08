@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Introduction to linear colliders}{3}{0}{1}
+\beamer@sectionintoc {2}{Final focus and small beam size (CLIC)}{11}{0}{2}
+\beamer@sectionintoc {3}{Beam positioning and stabilization (ATF2)}{24}{0}{3}
+\beamer@sectionintoc {4}{Conclusions}{42}{0}{4}
+\beamer@sectionintoc {5}{Extra slides}{43}{0}{5}
